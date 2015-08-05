@@ -21,7 +21,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 ### Learning Objectives
 
 | Module 1: Overview of Compute and Storage Resources (15 min) |
-| --- |
+| ---------------------------------------------------------------------------------------- |
 | * What is high performance computing and why is it useful? |
 | * Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch). |
 | * Compute resources at MD Anderson (Shark, Nautilus). |
@@ -34,7 +34,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 <br>
 
 | Module 2: Linux Command Line Basics (45 min) |
-| --- |
+| ---------------------------------------------------------------------------------------- |
 |  * Brief introduction to the Linux operating system. |
 |  * Looking and moving around (pwd, ls, mkdir, cd, rmdir). |
 |  * Creating and manipulating files (touch, rm, mv, cp, vim). |
@@ -54,7 +54,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 <br><br>
 
 | Module 3: Text Editing with VIM (30 min) |
-| --- |
+| ---------------------------------------------------------------------------------------- |
 | *	Switching back and forth between insert mode (IM) vs. normal mode (NM) (i, o, O, Esc). |
 | *	IM: Entering text as a typical text editor. |
 | *	NM: Navigating a file (<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d). |
@@ -74,7 +74,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 <br>
 
 | Module 4: Simple (bash) Shell Scripting (30 min) |
-| --- |
+| ---------------------------------------------------------------------------------------- |
 | *	The body of a simple shell script – header, comments, commands, exit. |
 | *	Assigning variables, manipulating variables. |
 | *	Conditionals with if / elif / else. |
@@ -90,7 +90,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 <br><br>
 
 | Module 5: Environment, Modules, Job Submission (30 min) |
-| --- |
+| ---------------------------------------------------------------------------------------- |
 | *	Environment variables – purpose, printing, and defining (echo, env, export). |
 | *	Modules – listing, loading, and unloading. |
 | *	Automating environment variables, module commands, and aliases in .bash_profile. |
