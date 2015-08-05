@@ -35,7 +35,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 
 
-
+<br><br><br>
 
 
 | Module 2: Linux Command Line Basics (45 min) |
