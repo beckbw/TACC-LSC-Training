@@ -26,12 +26,12 @@ This course is taught as an interactive workshop. Students will actively engage 
 | * Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch). |
 | * Compute resources at MD Anderson (Shark, Nautilus). |
 |  |
-| Students should be able to… |
+| **Students should be able to…** |
 | …describe possible applications for HPC in the life sciences. |
 | …choose the correct resource at TACC for their research needs. |
 | …choose the correct resource at MD Anderson for their research needs. |
 
-<br><br>
+<br>
 
 | Module 2: Linux Command Line Basics (45 min) |
 | --- |
@@ -44,14 +44,14 @@ This course is taught as an interactive workshop. Students will actively engage 
 |  *	Miscellaneous commands (man, which, diff, df, du, date, history, logout). |
 |  *	Shortcuts (Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &, \) |
 |  |
-|	Students should be able to… |
+|	**Students should be able to…** |
 | …list benefits and capabilities of a command line interface. |
 | …use all of the commands covered in this module. |
 | …find documentation for unknown commands and flags. |
 
-<br><br>
+<br>
 **BREAK (5 min)**
-<br><br>
+<br>
 
 | Module 3: Text Editing with VIM (30 min) |
 | --- |
@@ -64,14 +64,14 @@ This course is taught as an interactive workshop. Students will actively engage 
 | *	NM: Saving and quitting (:w, :wq, :q, :q!). |
 | *	NM: Other useful things to know (u, Ctrl+r, .) |
 |  |
-| Students should be able to… |
+| **Students should be able to…** |
 |	…open, edit, and save documents with VIM. |
 |	…switch back and forth between insert mode and normal mode. |
 |	…navigate to different parts of a file quickly. |
 |	…search for a specific string of text. |
 |	…find and replace text. |
 
-<br><br>
+<br>
 
 | Module 4: Simple (bash) Shell Scripting (30 min) |
 | --- |
@@ -80,14 +80,14 @@ This course is taught as an interactive workshop. Students will actively engage 
 | *	Conditionals with if / elif / else. |
 | *	Loop control with while and for. |
 |  |
-| Students should be able to… |
+| **Students should be able to…** |
 | …create a simple shell script with a header, comments, and commands. |
 |	…change permissions and execute a shell script on the command line. |
 |	…write and explain if / else statements, for loops, and while loops. |
 
-<br><br>
+<br>
 **BREAK (5 min)**
-<br><br>
+<br>
 
 | Module 5: Environment, Modules, Job Submission (30 min) |
 | --- |
@@ -96,7 +96,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | *	Automating environment variables, module commands, and aliases in .bash_profile. |
 | *	Batch job submission, commands dependent on system (qsub, showq, qdel). |
 |  |
-|	Students should be able to… |
+|	**Students should be able to…** |
 |  *	…display their current environment variables. |
 |  *	…change existing and create new environment variables. |
 |  *	…list modules currently loaded in their environment. |
@@ -107,9 +107,9 @@ This course is taught as an interactive workshop. Students will actively engage 
 |  *	…submit jobs to a queue. |
 |  *	…monitor jobs in a queue and delete jobs from a queue. |
 
-<br><br>
+<br>
 
 
-
+Copyright 2015 Texas Advanced Computing Center
 
 
