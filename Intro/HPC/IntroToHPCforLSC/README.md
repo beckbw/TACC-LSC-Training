@@ -20,27 +20,27 @@ This course is taught as an interactive workshops. Students will actively partic
 
 ### Learning Objectives
 
-Module 1: Overview of Compute and Storage Resources (15 min)
-* Topics covered in this module:
-  * What is high performance computing and why is it useful?
-  * Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch).
-  * Compute resources at MD Anderson (Shark, Nautilus).
+| Module 1: Overview of Compute and Storage Resources (15 min) |
+| --- |
+| * What is high performance computing and why is it useful? |
+| * Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch). |
+| * Compute resources at MD Anderson (Shark, Nautilus). |
 
 * Students should be able to…
   * …describe possible applications for HPC in the life sciences.
   * …choose the correct resource at TACC for their research needs.
   * …choose the correct resource at MD Anderson for their research needs.
 
-Module 2: Linux Command Line Basics (45 min)
-* Topics covered in this module:
-  * Brief introduction to the Linux operating system.
-  * Looking and moving around (pwd, ls, mkdir, cd, rmdir).
-  * Creating and manipulating files (touch, rm, mv, cp, vim).
-  * Looking at the contents of files (cat, more, less, head, tail).
-  * More files commands (ln, chmod, grep, tar, gzip).
-  *	Network and file transfers (hostname, whoami, ssh, scp, rsync).
-  *	Miscellaneous commands (man, which, diff, df, du, date, history, logout).
-  *	Shortcuts (Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &, \)
+| Module 2: Linux Command Line Basics (45 min) |
+| --- |
+|  * Brief introduction to the Linux operating system. |
+|  * Looking and moving around (pwd, ls, mkdir, cd, rmdir). |
+|  * Creating and manipulating files (touch, rm, mv, cp, vim). |
+|  * Looking at the contents of files (cat, more, less, head, tail). |
+|  * More files commands (ln, chmod, grep, tar, gzip). |
+|  *	Network and file transfers (hostname, whoami, ssh, scp, rsync). |
+|  *	Miscellaneous commands (man, which, diff, df, du, date, history, logout). |
+|  *	Shortcuts (Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &, \) |
 
 *	Students should be able to…
   *	…list benefits and capabilities of a command line interface.
@@ -50,16 +50,16 @@ Module 2: Linux Command Line Basics (45 min)
 
 BREAK (5 min)
 
-Module 3: Text Editing with VIM (30 min)
-*	Topics covered in this module:
-  *	Switching back and forth between insert mode (IM) vs. normal mode (NM) (i, o, O, Esc).
-  *	IM: Entering text as a typical text editor.
-  *	NM: Navigating a file (<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d).
-  *	NM: Deleting, coping, and pasting text (x, dw, dd, yy, p, P, <number><command>).
-  *	NM: Searching for text (/pattern, n, N).
-  *	NM: The command line (:, :<line number>, :%s/find/replace/gc, :read <file>).
-  *	NM: Saving and quitting (:w, :wq, :q, :q!).
-  *	NM: Other useful things to know (u, Ctrl+r, .)
+| Module 3: Text Editing with VIM (30 min) |
+| --- |
+| *	Switching back and forth between insert mode (IM) vs. normal mode (NM) (i, o, O, Esc). |
+| *	IM: Entering text as a typical text editor. |
+| *	NM: Navigating a file (<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d). |
+| *	NM: Deleting, coping, and pasting text (x, dw, dd, yy, p, P, <number><command>). |
+| *	NM: Searching for text (/pattern, n, N). |
+| *	NM: The command line (:, :<line number>, :%s/find/replace/gc, :read <file>). |
+| *	NM: Saving and quitting (:w, :wq, :q, :q!). |
+| *	NM: Other useful things to know (u, Ctrl+r, .) |
 
 *	Students should be able to…
   *	…open, edit, and save documents with VIM.
@@ -69,12 +69,12 @@ Module 3: Text Editing with VIM (30 min)
   *	…find and replace text.
 
 
-Module 4: Simple (bash) Shell Scripting (30 min)
-* Topics covered in this module:
-  *	The body of a simple shell script – header, comments, commands, exit.
-  *	Assigning variables, manipulating variables.
- *	Conditionals with if / elif / else.
-  *	Loop control with while and for.
+| Module 4: Simple (bash) Shell Scripting (30 min) |
+| --- |
+| *	The body of a simple shell script – header, comments, commands, exit. |
+| *	Assigning variables, manipulating variables. |
+| *	Conditionals with if / elif / else. |
+| *	Loop control with while and for. |
 
 *	Students should be able to…
   *	…create a simple shell script with a header, comments, and commands.
@@ -83,16 +83,12 @@ Module 4: Simple (bash) Shell Scripting (30 min)
 
 BREAK (5 min)
 
-
-
-
 | Module 5: Environment, Modules, Job Submission (30 min) |
-| -- |
-| *	Topics covered in this module: |
-|   *	Environment variables – purpose, printing, and defining (echo, env, export). |
-|   *	Modules – listing, loading, and unloading. |
-|   *	Automating environment variables, module commands, and aliases in .bash_profile. |
-|   *	Batch job submission, commands dependent on system (qsub, showq, qdel). |
+| --- |
+| *	Environment variables – purpose, printing, and defining (echo, env, export). |
+| *	Modules – listing, loading, and unloading. |
+| *	Automating environment variables, module commands, and aliases in .bash_profile. |
+| *	Batch job submission, commands dependent on system (qsub, showq, qdel). |
 
 
 
