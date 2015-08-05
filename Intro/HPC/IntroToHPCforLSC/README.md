@@ -83,12 +83,18 @@ Module 4: Simple (bash) Shell Scripting (30 min)
 
 BREAK (5 min)
 
-Module 5: Environment, Modules, Job Submission (30 min)
-*	Topics covered in this module:
-  *	Environment variables – purpose, printing, and defining (echo, env, export).
-  *	Modules – listing, loading, and unloading.
-  *	Automating environment variables, module commands, and aliases in .bash_profile.
-  *	Batch job submission, commands dependent on system (qsub, showq, qdel).
+
+
+
+| Module 5: Environment, Modules, Job Submission (30 min) |
+| -- |
+| *	Topics covered in this module: |
+|   *	Environment variables – purpose, printing, and defining (echo, env, export). |
+|   *	Modules – listing, loading, and unloading. |
+|   *	Automating environment variables, module commands, and aliases in .bash_profile. |
+|   *	Batch job submission, commands dependent on system (qsub, showq, qdel). |
+
+
 
 *	Students should be able to…
   *	…display their current environment variables.
