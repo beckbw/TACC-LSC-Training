@@ -27,9 +27,16 @@ This course is taught as an interactive workshop. Students will actively engage 
 | * Compute resources at MD Anderson (Shark, Nautilus). |
 |  |
 | Students should be able to… |
-| * …describe possible applications for HPC in the life sciences. |
-| * …choose the correct resource at TACC for their research needs. |
-| * …choose the correct resource at MD Anderson for their research needs. |
+| …describe possible applications for HPC in the life sciences. |
+| …choose the correct resource at TACC for their research needs. |
+| …choose the correct resource at MD Anderson for their research needs. |
+
+
+
+
+
+
+
 
 | Module 2: Linux Command Line Basics (45 min) |
 | --- |
@@ -41,11 +48,11 @@ This course is taught as an interactive workshop. Students will actively engage 
 |  *	Network and file transfers (hostname, whoami, ssh, scp, rsync). |
 |  *	Miscellaneous commands (man, which, diff, df, du, date, history, logout). |
 |  *	Shortcuts (Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &, \) |
-
-*	Students should be able to…
-  *	…list benefits and capabilities of a command line interface.
-  *	…use all of the commands covered in this module.
-  *	…find documentation for unknown commands and flags.
+|  |
+|	Students should be able to… |
+| …list benefits and capabilities of a command line interface. |
+| …use all of the commands covered in this module. |
+| …find documentation for unknown commands and flags. |
 
 
 BREAK (5 min)
