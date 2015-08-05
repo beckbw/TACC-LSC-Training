@@ -9,16 +9,28 @@ are:
 
 1. Organize the course materials into an easily navigatable interface. 
 2. Present concise overviews of the course content.
-2. Provide a centralized repository of course files for download.
-3. Store a chronicle of past course offerings (including date and institution),
-as well as historical snapshots of course files.
+  * To aid in quality control and instructional alignment, Contributors will ensure Overviews will note:
+    1. *Course Objectives*,  General purpose of each course 
+    2. *Instructional Objectives*, The general format of the course and assessment mechanisms
+    3. *Specific-Learning Objectives*, Detailed topic deliverables that students will be able to perform
+3. Provide a centralized repository of course files (*links* to large files) for download.
+4. Store a chronicle of past course offerings (including date and institution),
+  * also provides historical snapshots of course files.
 
 
 ### Courses
 
-We intend to host 10 or more different courses on this site. Click on
-[Intro](/Intro) or [Adv](/Adv) to start browsing. There is a lot more to come,
-but for now, perhaps look at the following courses:
+We intend to host many different courses on this site.
+Currently, courses are organized hierarchically by folders for User Experience and Topic:
+For example:
+
+Experience | Topic | Path
+-----------|-------|-------
+Introductory [\(Intro\)](/Intro) | [Intro to HPC for Life Sciences](/Intro/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Intro/HPC/IntroToHPCforLSC`
+Advanced [\(Adv\)](/Adv) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Adv/HPC/AdvXeonPHI`
+
+For now click on [Intro](/Intro) or [Adv](/Adv) to start browsing.
+There is a lot more to come, but for now, perhaps look at the following courses:
 
 Course Name |
 ----------- |
@@ -33,7 +45,7 @@ Please feel free to clone this entire repository via the following:
 ```
 git clone https://github.com/wjallen/TACC-LSC-Training
 ```
-
+>\(this URL will change\)
 
 
 
