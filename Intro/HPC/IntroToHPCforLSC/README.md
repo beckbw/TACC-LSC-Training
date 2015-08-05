@@ -48,9 +48,11 @@ This course is taught as an interactive workshop. Students will actively engage 
 | …list benefits and capabilities of a command line interface. |
 | …use all of the commands covered in this module. |
 | …find documentation for unknown commands and flags. |
+
 <br><br>
 **BREAK (5 min)**
 <br><br>
+
 | Module 3: Text Editing with VIM (30 min) |
 | --- |
 | *	Switching back and forth between insert mode (IM) vs. normal mode (NM) (i, o, O, Esc). |
@@ -70,6 +72,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 |	…find and replace text. |
 
 <br><br>
+
 | Module 4: Simple (bash) Shell Scripting (30 min) |
 | --- |
 | *	The body of a simple shell script – header, comments, commands, exit. |
@@ -81,9 +84,11 @@ This course is taught as an interactive workshop. Students will actively engage 
 | …create a simple shell script with a header, comments, and commands. |
 |	…change permissions and execute a shell script on the command line. |
 |	…write and explain if / else statements, for loops, and while loops. |
-<br> <br>
-BREAK (5 min)
+
 <br><br>
+**BREAK (5 min)**
+<br><br>
+
 | Module 5: Environment, Modules, Job Submission (30 min) |
 | --- |
 | *	Environment variables – purpose, printing, and defining (echo, env, export). |
