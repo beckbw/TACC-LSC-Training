@@ -1,4 +1,4 @@
-# TACC Life Sciences Computing Training Homepage
+# TACC Life Sciences Computing Training
 
 ### Welcome!
 
