@@ -31,12 +31,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | …choose the correct resource at TACC for their research needs. |
 | …choose the correct resource at MD Anderson for their research needs. |
 
-
-
-
-
-<br><br><br>
-
+<br><br>
 
 | Module 2: Linux Command Line Basics (45 min) |
 | --- |
@@ -53,10 +48,9 @@ This course is taught as an interactive workshop. Students will actively engage 
 | …list benefits and capabilities of a command line interface. |
 | …use all of the commands covered in this module. |
 | …find documentation for unknown commands and flags. |
-
-
-BREAK (5 min)
-
+<br><br>
+**BREAK (5 min)**
+<br><br>
 | Module 3: Text Editing with VIM (30 min) |
 | --- |
 | *	Switching back and forth between insert mode (IM) vs. normal mode (NM) (i, o, O, Esc). |
@@ -67,50 +61,48 @@ BREAK (5 min)
 | *	NM: The command line (:, :<line number>, :%s/find/replace/gc, :read <file>). |
 | *	NM: Saving and quitting (:w, :wq, :q, :q!). |
 | *	NM: Other useful things to know (u, Ctrl+r, .) |
+|  |
+| Students should be able to… |
+|	…open, edit, and save documents with VIM. |
+|	…switch back and forth between insert mode and normal mode. |
+|	…navigate to different parts of a file quickly. |
+|	…search for a specific string of text. |
+|	…find and replace text. |
 
-*	Students should be able to…
-  *	…open, edit, and save documents with VIM.
-  *	…switch back and forth between insert mode and normal mode.
-  *	…navigate to different parts of a file quickly.
-  *	…search for a specific string of text.
-  *	…find and replace text.
-
-
+<br><br>
 | Module 4: Simple (bash) Shell Scripting (30 min) |
 | --- |
 | *	The body of a simple shell script – header, comments, commands, exit. |
 | *	Assigning variables, manipulating variables. |
 | *	Conditionals with if / elif / else. |
 | *	Loop control with while and for. |
-
-*	Students should be able to…
-  *	…create a simple shell script with a header, comments, and commands.
-  *	…change permissions and execute a shell script on the command line.
-  *	…write and explain if / else statements, for loops, and while loops.
-
+|  |
+| Students should be able to… |
+| …create a simple shell script with a header, comments, and commands. |
+|	…change permissions and execute a shell script on the command line. |
+|	…write and explain if / else statements, for loops, and while loops. |
+<br> <br>
 BREAK (5 min)
-
+<br><br>
 | Module 5: Environment, Modules, Job Submission (30 min) |
 | --- |
 | *	Environment variables – purpose, printing, and defining (echo, env, export). |
 | *	Modules – listing, loading, and unloading. |
 | *	Automating environment variables, module commands, and aliases in .bash_profile. |
 | *	Batch job submission, commands dependent on system (qsub, showq, qdel). |
+|  |
+|	Students should be able to… |
+|  *	…display their current environment variables. |
+|  *	…change existing and create new environment variables. |
+|  *	…list modules currently loaded in their environment. |
+|  *	…load and unloaded modules. |
+|  *	…describe the effects of a module load command. |
+|  *	…automate module and environment commands in the .bash_profile. |
+|  *	…write batch job submission scripts. |
+|  *	…submit jobs to a queue. |
+|  *	…monitor jobs in a queue and delete jobs from a queue. |
 
-
-
-*	Students should be able to…
-  *	…display their current environment variables.
-  *	…change existing and create new environment variables.
-  *	…list modules currently loaded in their environment.
-  *	…load and unloaded modules.
-  *	…describe the effects of a module load command.
-  *	…automate module and environment commands in the .bash_profile.
-  *	…write batch job submission scripts.
-  *	…submit jobs to a queue.
-  *	…monitor jobs in a queue and delete jobs from a queue.
-
-
+<br><br>
 
 
 
