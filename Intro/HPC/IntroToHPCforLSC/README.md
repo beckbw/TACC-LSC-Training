@@ -51,7 +51,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br>
 **BREAK (5 min)**
-<br>
+<br><br>
 
 | Module 3: Text Editing with VIM (30 min) |
 | --- |
@@ -87,7 +87,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br>
 **BREAK (5 min)**
-<br>
+<br><br>
 
 | Module 5: Environment, Modules, Job Submission (30 min) |
 | --- |
