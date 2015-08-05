@@ -25,11 +25,11 @@ This course is taught as an interactive workshop. Students will actively engage 
 | * What is high performance computing and why is it useful? |
 | * Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch). |
 | * Compute resources at MD Anderson (Shark, Nautilus). |
-
-* Students should be able to…
-  * …describe possible applications for HPC in the life sciences.
-  * …choose the correct resource at TACC for their research needs.
-  * …choose the correct resource at MD Anderson for their research needs.
+|  |
+| Students should be able to… |
+| * …describe possible applications for HPC in the life sciences. |
+| * …choose the correct resource at TACC for their research needs. |
+| * …choose the correct resource at MD Anderson for their research needs. |
 
 | Module 2: Linux Command Line Basics (45 min) |
 | --- |
