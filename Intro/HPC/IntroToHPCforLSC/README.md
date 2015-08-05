@@ -1,0 +1,6 @@
+# Intro to HPC for Life Sciences Computing
+
+The purpose of this course is...
+
+
+A general outline of this course is as follows...

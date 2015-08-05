@@ -1,0 +1,6 @@
+# Best Practices in Data Management
+
+The purpose of this course is...
+
+
+A general outline of this course is as follows...
