@@ -26,16 +26,16 @@ For example:
 
 Experience | Topic | Path
 -----------|-------|-------
-Introductory [\(Intro\)](/Intro) | [Intro to HPC for Life Sciences](/Intro/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Intro/HPC/IntroToHPCforLSC`
-Advanced [\(Adv\)](/Adv) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Adv/HPC/AdvXeonPHI`
+[\(Introductory\)](/Introductory) | [Intro to HPC for Life Sciences](/Introductory/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Introductory/HPC/IntroToHPCforLSC`
+[\(Advanced\)](/Advanced) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Advanced/HPC/AdvXeonPHI`
 
-For now click on [Intro](/Intro) or [Adv](/Adv) to start browsing.
+For now click on [Introductory](/Introductory) or [Advanced](/Advanced) to start browsing.
 There is a lot more to come, but for now, perhaps look at the following courses:
 
 Course Name |
 ----------- |
-[Intro to HPC for Life Sciences](/Intro/HPC/IntroToHPCforLSC) |
-[Best Practices in Data Management](/Intro/HPC/DataManagement) |
+[Intro to HPC for Life Sciences](/Introductory/HPC/IntroToHPCforLSC) |
+[Best Practices in Data Management](/Introductory/HPC/DataManagement) |
 
 
 ### Download
