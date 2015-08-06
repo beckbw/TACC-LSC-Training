@@ -1,4 +1,4 @@
-# Course Title Here 
+# Best Practices in Data Management
 
 ### Course Objectives 
 
