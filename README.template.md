@@ -23,7 +23,7 @@ This course is taught as...
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li> Topic 4</li></ul> |
+| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li></ul> |
 | **Students should be able to...** |
 | <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
 | **Assessment activities** |
