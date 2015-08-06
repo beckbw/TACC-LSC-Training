@@ -43,7 +43,7 @@ Experience | Course Name | Path
  | [Virtual Machines and Cloud Computing](Advanced/VirtualMachines)| `/TACC-LSC-Training/Advanced/VirtualMachines`
  | [Software Applications](Advanced/Applications)| `/TACC-LSC-Training/Advanced/Applications`
  | |
-[Workshops](/Workshops) | location and times vary | `/TACC-LSC-Training/Workshops`
+[Workshops](/Workshops) | Locations and times vary | `/TACC-LSC-Training/Workshops`
 
 Many of the courses are still in development. For now, please see the following courses:
 
