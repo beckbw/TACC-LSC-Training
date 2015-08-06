@@ -25,8 +25,8 @@ This course is taught as an interactive workshop. Students will actively engage 
 | <ul><li> Brief introduction to the Linux operating system. </li><li> Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). </li><li> Creating and manipulating files (`touch, rm, mv, cp, vim`). </li><li> Looking at the contents of files (`cat, more, less, head, tail`). </li><li> More files commands (`ln, chmod, grep, tar, gzip`). </li><li> Network and file transfers (`hostname, whoami, ssh, scp, rsync`). </li><li> Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). </li><li> Shortcuts (`Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &`) </li></ul> |
 | **Students should be able to...** |
 | <ul><li> List benefits and capabilities of a command line interface. </li><li> Use all of the commands covered in this module. </li><li> Find documentation for unknown commands and flags. </li></ul> |
-| **Assessment activities** |
-| <ul><li> Discussion: How will HPC help your research project? </li><li> Go to the TACC User Portal and MD Anderson HPCWeb: Find and record the process for asking questions and getting help. </li><li> Log on to a cluster or server and read the welcome text. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> Exercise01.tar: Renaming directories for better organization. </li><li> Exercise02.tar: Manipulating existing files (word list and fasta). </li></ul> |
 
 <br>
 
