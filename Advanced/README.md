@@ -14,7 +14,7 @@ Advanced materials for various popular software packages used in the life scienc
 
 * [Gromacs](Software/Gromacs) : Open source MD simulation
 * [DOCK6](Software/DOCK6) : Structure-based molecular docking
-* [Samtools](Software/samtools) : Utilities for sorting, merging, indexing, and generating sequence alignments
+* [Samtools](Software/Samtools) : Utilities for sorting, merging, indexing, and generating sequence alignments
 
 ### Previous Materials
 
