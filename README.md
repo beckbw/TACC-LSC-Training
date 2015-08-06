@@ -34,7 +34,7 @@ Experience | Topic | Path
  | [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC)| `/TACC-LSC-Training/Introductory/UTRC`
  | [Introduction to Linux](Introductory/IntroToLinux)| `/TACC-LSC-Training/Introductory/IntroToLinux`
  | [Data Management](Introductory/DataManagement)| `/TACC-LSC-Training/Introductory/DataManagement`
- | [Job Submission](Introductory/JobSubmission)| `/TACC-LSC-Training/Introductory/JobSubmission`
+ | [Batch Job Submission](Introductory/JobSubmission)| `/TACC-LSC-Training/Introductory/JobSubmission`
  | [General Computational Tools](Introductory/Tools)<br/>(Python, Perl, R, MATLAB)| `/TACC-LSC-Training/Introductory/Tools`
  | |
 [Advanced](/Advanced) | [Xeon PHI Programming and optimization](Advanced/XeonPhi) | `/TACC-LSC-Training/Advanced/XeonPhi`
