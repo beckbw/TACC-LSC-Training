@@ -49,5 +49,5 @@ git clone https://github.com/wjallen/TACC-LSC-Training
 
 
 
-Copyright 2015 Texas Advanced Computing Center
+&copy; 2015 Texas Advanced Computing Center
 
