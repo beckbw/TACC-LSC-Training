@@ -1,51 +1,48 @@
-# Course Title Here 
+# Course Title Here
 
-### Course Objectives 
+### Course Objectives
 
-**This course is designed to 
+This course is designed to...
 
 This course is divided into xxx modules:
 
- 1. Overview of X (X min)
- 2. The Basics of X (X min)
+ 1. [Title of Module 1](#mod1)
+ 2. [Title of Module 2](#mod1)
 
 
 ### Instructional Objectives
 
-This course is taught as 
+This course is taught as...
 
 
 ### Specific Learning Objectives
 
 
-| Module 1: Overview of `X` (X min) |
-| ---------------------------------------------------------------------------------------- |
-| &#8226; What is `X` and why is it useful? |
-| &#8226; Suggested Compute resources at TACC for doing `X` (Lonestar, Stampede, Maverick, Corral, Ranch). |
-|  |
-| **Students should be able to…** |
-| &#9702; Describe possible applications for `X` in the &hellip;  |
-| &#9702; Choose the correct resource at TACC for their `X` research needs. |
 
-<br/>
-
-| Module 2: The Basics of `X` (X min) |
-| ---------------------------------------------------------------------------------------- |
-|  &#8226; Brief introduction to the `X` interface/structure . |
-|  &#8226; Moving data in `X`. |
-|  &#8226; Creating and manipulating files in `X`. |
-|  &#8226; Visualizing results in `X`. |
-|  &#8226;	Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). |
-|  |
-|	**Students should be able to…** |
-| &#9702; Describe the purpose and capabilities of `X`. |
-| &#9702; Manipulate data in `X`. |
-| &#9702; Visualize results in `X`. |
-
+| <a name="mod1"></a>Module 1: Title of Module 1 |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li> Topic 4</li></ul> |
+| **Students should be able to...** |
+| <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
+| **Assessment activities** |
+| <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
 
 <br>
 
+| <a name="mod2"></a>Module 2: Title of Module 2 |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li> Topic 4</li></ul> |
+| **Students should be able to...** |
+| <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
+| **Assessment activities:** |
+| <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
 
+
+<br>
 &copy; 2015 Texas Advanced Computing Center
 
 
