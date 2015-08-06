@@ -21,13 +21,13 @@ are:
 ### Courses
 
 We intend to host many different courses on this site.
-Currently, courses are organized hierarchically by folders for User Experience and Topic:
+Currently, courses are organized hierarchically by folders by user experience and topic.
 For example:
 
 Experience | Topic | Path
 -----------|-------|-------
-[\(Introductory\)](/Introductory) | [Intro to HPC for Life Sciences](/Introductory/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Introductory/HPC/IntroToHPCforLSC`
-[\(Advanced\)](/Advanced) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Advanced/HPC/AdvXeonPHI`
+[Introductory](/Introductory) | [Intro to HPC for Life Sciences](/Introductory/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Introductory/HPC/IntroToHPCforLSC`
+[Advanced](/Advanced) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Advanced/HPC/AdvXeonPHI`
 
 For now click on [Introductory](/Introductory) or [Advanced](/Advanced) to start browsing.
 There is a lot more to come, but for now, perhaps look at the following courses:
