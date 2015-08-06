@@ -1,4 +1,4 @@
-# Course Title Here 
+# Virtual Machines and Cloud Computing
 
 ### Course Objectives 
 
