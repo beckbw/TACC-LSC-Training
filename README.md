@@ -25,7 +25,7 @@ Courses are organized hierarchically in folders by user experience, scope, topic
 * [Advanced](Advanced) courses generally assume a student will be aware of the content of the Introductory courses and will generic have a more targetted or specific scope.
 * [Workshops](Workshops) are specific training sessions of Introductory or Advanced courses organized by the host institution and date they were presented.
 
-Note: While Workshops will contain substantially the same information as in Introductory or Advanced they will likely present institution specific content as well.
+Note: While Workshops will contain substantially the same information as is in Introductory or Advanced, they will likely present institution specific content as well.
 
 #### Catalog
 
