@@ -1,6 +1,6 @@
 # Applications
 
-This page contains tutorials for several software applications. These applications were selected for their wide-spread popularity among the life sciences. Within each tutorial, material ranges from introductory to intermediate to advanced. Some prior knowledge of [Linux](../../Introductory/IntroToLinux) and batch [Job Submission](../../Introductory/JobSubmission) would be a plus.
+This page contains tutorials for several software applications. These applications were selected for their wide-spread popularity among the life sciences. Within each tutorial, material ranges from introductory to intermediate to advanced. Some prior knowledge of [Linux](../../Introductory/IntroToLinux) and [batch job submission](../../Introductory/JobSubmission) would be a plus.
 
 Current course offerings:
 
