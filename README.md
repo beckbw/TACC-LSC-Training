@@ -29,21 +29,21 @@ Note: While Workshops will contain substantially the same information as is in I
 
 #### Catalog
 
-Experience | Course Name | Path
------------|-------|-------
-[Introductory](/Introductory) | [TACC Resources, Projects, &amp; Allocations](Introductory/TACC)| `/TACC-LSC-Training/Introductory/TACC`
- | [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC)| `/TACC-LSC-Training/Introductory/UTRC`
- | [Introduction to Linux](Introductory/IntroToLinux)| `/TACC-LSC-Training/Introductory/IntroToLinux`
- | [Best Practices in Data Management](Introductory/DataManagement)| `/TACC-LSC-Training/Introductory/DataManagement`
- | [Batch Job Submission](Introductory/JobSubmission)| `/TACC-LSC-Training/Introductory/JobSubmission`
- | [Computational Tools](Introductory/Tools)| `/TACC-LSC-Training/Introductory/Tools`
- | |
-[Advanced](/Advanced) | [Programming the Xeon Phi](Advanced/XeonPhi) | `/TACC-LSC-Training/Advanced/XeonPhi`
- | [Parallel Programming](Advanced/ParallelProg)| `/TACC-LSC-Training/Advanced/ParallelProg`
- | [Virtual Machines and Cloud Computing](Advanced/VirtualMachines)| `/TACC-LSC-Training/Advanced/VirtualMachines`
- | [Software Applications](Advanced/Applications)| `/TACC-LSC-Training/Advanced/Applications`
- | |
-[Workshops](/Workshops) | Locations and times vary | `/TACC-LSC-Training/Workshops`
+Experience | Course Name 
+-----------|-------
+[Introductory](/Introductory) | [TACC Resources, Projects, &amp; Allocations](Introductory/TACC)
+ | [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC)
+ | [Introduction to Linux](Introductory/IntroToLinux)
+ | [Best Practices in Data Management](Introductory/DataManagement)
+ | [Batch Job Submission](Introductory/JobSubmission)
+ | [Computational Tools](Introductory/Tools)
+ | 
+[Advanced](/Advanced) | [Programming the Xeon Phi](Advanced/XeonPhi) 
+ | [Parallel Programming](Advanced/ParallelProg)
+ | [Virtual Machines and Cloud Computing](Advanced/VirtualMachines)
+ | [Software Applications](Advanced/Applications)
+ |
+[Workshops](/Workshops) | Locations and times vary 
 
 Many of the courses are still in development. For now, please see the following courses:
 
