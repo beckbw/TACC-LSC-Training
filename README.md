@@ -35,7 +35,7 @@ Experience | Topic | Path
  | [Introduction to Linux](Introductory/IntroToLinux)| `/TACC-LSC-Training/Introductory/IntroToLinux`
  | [Data Management](Introductory/DataManagement)| `/TACC-LSC-Training/Introductory/DataManagement`
  | [Job Submission](Introductory/JobSubmission)| `/TACC-LSC-Training/Introductory/JobSubmission`
- | [General Computational Tools](Introductory/Tools)| `/TACC-LSC-Training/Introductory/Tools`
+ | [General Computational Tools](Introductory/Tools)<br/>(Python, Perl, R, MATLAB)| `/TACC-LSC-Training/Introductory/Tools`
 [Advanced](/Advanced) | [Xeon PHI programming and optimization](Advanced/XeonPhi) | `/TACC-LSC-Training/Advanced/XeonPhi`
  | [Software Applications](Advanced/Applications)| `/TACC-LSC-Training/Advanced/Applications`
  | [Parallel Programming](Advanced/ParallelProg)| `/TACC-LSC-Training/Advanced/ParallelProg`
