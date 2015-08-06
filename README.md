@@ -31,15 +31,17 @@ Courses are organized hierarchically in folders by `user experience/scope`, `top
 Experience | Topic | Path
 -----------|-------|-------
 [Introductory](/Introductory) | [TACC Resources, Projects, &amp; Allocations](Introductory/TACC)| `/TACC-LSC-Training/Introductory/TACC`
- | [UTRC](Introductory/UTRC)| `/TACC-LSC-Training/Introductory/UTRC`
+ | [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC)| `/TACC-LSC-Training/Introductory/UTRC`
  | [Introduction to Linux](Introductory/IntroToLinux)| `/TACC-LSC-Training/Introductory/IntroToLinux`
  | [Data Management](Introductory/DataManagement)| `/TACC-LSC-Training/Introductory/DataManagement`
  | [Job Submission](Introductory/JobSubmission)| `/TACC-LSC-Training/Introductory/JobSubmission`
  | [General Computational Tools](Introductory/Tools)<br/>(Python, Perl, R, MATLAB)| `/TACC-LSC-Training/Introductory/Tools`
-[Advanced](/Advanced) | [Xeon PHI programming and optimization](Advanced/XeonPhi) | `/TACC-LSC-Training/Advanced/XeonPhi`
- | [Software Applications](Advanced/Applications)| `/TACC-LSC-Training/Advanced/Applications`
+ | |
+[Advanced](/Advanced) | [Xeon PHI Programming and optimization](Advanced/XeonPhi) | `/TACC-LSC-Training/Advanced/XeonPhi`
  | [Parallel Programming](Advanced/ParallelProg)| `/TACC-LSC-Training/Advanced/ParallelProg`
  | [Virtual Machines](Advanced/VirtualMachines)| `/TACC-LSC-Training/Advanced/VirtualMachines`
+ | [Software Applications](Advanced/Applications)| `/TACC-LSC-Training/Advanced/Applications`
+ | |
 [Workshops](/Workshops) | location and times vary | `/TACC-LSC-Training/Workshops`
 
 There is a lot more to come, but for now, perhaps look at the following courses:
