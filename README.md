@@ -9,33 +9,33 @@ are:
 
 1. Organize the course materials into an easily navigatable interface. 
 2. Present concise overviews of the course content.
-  * To aid in quality control and instructional alignment, Contributors will ensure Overviews will note:
-    1. *Course Objectives*,  General purpose of each course 
-    2. *Instructional Objectives*, The general format of the course and assessment mechanisms
-    3. *Specific-Learning Objectives*, Detailed topic deliverables that students will be able to perform
 3. Provide a centralized repository of course files (*links* to large files) for download.
-4. Store a chronicle of past course offerings (including date and institution),
-  * also provides historical snapshots of course files.
+4. Store a chronicle of past course offerings (including date, institution, and course files).
 
+To aid in quality control and instructional alignment, Contributors will ensure course overviews include:
+
+1. *Course Objectives*:  General purpose of the course. 
+2. *Instructional Objectives*: The general format of the course and assessment mechanisms.
+3. *Specific Learning Objectives*: Detailed topic deliverables that students will be able to perform.
 
 ### Courses
 
 We intend to host many different courses on this site.
-Currently, courses are organized hierarchically by folders for User Experience and Topic:
+Currently, courses are organized hierarchically by folders by user experience and topic.
 For example:
 
 Experience | Topic | Path
 -----------|-------|-------
-Introductory [\(Intro\)](/Intro) | [Intro to HPC for Life Sciences](/Intro/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Intro/HPC/IntroToHPCforLSC`
-Advanced [\(Adv\)](/Adv) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Adv/HPC/AdvXeonPHI`
+[Introductory](/Introductory) | [Intro to HPC for Life Sciences](/Introductory/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Introductory/HPC/IntroToHPCforLSC`
+[Advanced](/Advanced) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Advanced/HPC/AdvXeonPHI`
 
-For now click on [Intro](/Intro) or [Adv](/Adv) to start browsing.
+For now click on [Introductory](/Introductory) or [Advanced](/Advanced) to start browsing.
 There is a lot more to come, but for now, perhaps look at the following courses:
 
 Course Name |
 ----------- |
-[Intro to HPC for Life Sciences](/Intro/HPC/IntroToHPCforLSC) |
-[Best Practices in Data Management](/Intro/HPC/DataManagement) |
+[Intro to HPC for Life Sciences](/Introductory/HPC/IntroToHPCforLSC) |
+[Best Practices in Data Management](/Introductory/HPC/DataManagement) |
 
 
 ### Download
