@@ -4,9 +4,9 @@ This page contains tutorials for several software applications. These applicatio
 
 Current course offerings:
 
-* [Gromacs](Gromacs) : Open source MD simulation
-* [DOCK6](DOCK6) : Structure-based molecular docking
-* [Samtools](Samtools) : Utilities for sorting, merging, indexing, and generating sequence alignments
+* [Gromacs](Gromacs)
+* [DOCK6](DOCK6)
+* [Samtools](Samtools)
 
 
 <br>
