@@ -1,4 +1,4 @@
-# Course Title Here 
+# Gromacs
 
 ### Course Objectives 
 
