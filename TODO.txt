@@ -1,0 +1,6 @@
+* Give course names to each of the Readmes
+* Fill other info in each Readme
+* Work on the three Main Readme
+* Put lectures into the skeleton
+* Put in workshops we have already done
+*
