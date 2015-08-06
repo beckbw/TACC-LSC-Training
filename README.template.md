@@ -7,7 +7,7 @@ This course is designed to...
 This course is divided into xxx modules:
 
  1. [Title of Module 1](#mod1)
- 2. [Title of Module 2](#mod1)
+ 2. [Title of Module 2](#mod2)
 
 
 ### Instructional Objectives
