@@ -9,7 +9,7 @@ are:
 
 * Organize the course materials into an easily navigatable interface. 
 * Present concise overviews of the course content.
-* Provide a centralized repository of course files (or links to large files) for download.
+* Provide a centralized repository of course files (links to large files) for download.
 * Store a chronicle of past course offerings (including date, institution, and course files).
 
 To aid in quality control and instructional alignment, Contributors will ensure course overviews include:
