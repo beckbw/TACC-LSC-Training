@@ -5,7 +5,7 @@
 This folder contains introductory-level materials from the TACC Life Sciences Computing group curriculum. For the purposes of organization, we have defined *introductory material* as that which requires limited to no prior knowledge to complete, and is broad in scope. A detailed list of all topics currently supported by the group is provided below:
 
 * [TACC Resources, Projects, &amp; Allocations](TACC) : An overview of TACC high performance compute and storage resources
-* [UT System Research Cyberinfrastructure \(UTRC\)](UTRC) : An overview of the University of Texas system research cyberinfrastructure
+* [UT System Research Cyberinfrastructure \(UTRC\)](UTRC) : An overview of the UTRC compute, network, and storage resources
 * [Introduction to Linux](IntroToLinux) : An introduction to Linux including the command line interface, VIM, and shell scripting
 * [Job Submission](JobSubmission): An introduction to queueing systems and batch job submission
 * [Data Management](DataManagement) : Best practices in data management
