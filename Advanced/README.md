@@ -20,4 +20,5 @@ Advanced materials for various popular software packages used in the life scienc
 
 A record of previous courses and the accompanying materials can be found under [Workshops](../Workshops).
 
+<br>
 &copy; 2015 Texas Advanced Computing Center
