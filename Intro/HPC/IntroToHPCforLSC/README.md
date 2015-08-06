@@ -83,7 +83,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | &#8226;	The body of a simple shell script – header, comments, commands, exit. |
 | &#8226;	Assigning variables, manipulating variables. |
 | &#8226;	Conditionals with `if` / `elif` / `else`. |
-| &#8226;	Loop control with while and for. |
+| &#8226;	Loop control with `while` and `for`. |
 |  |
 | **Students should be able to…** |
 | &#9702; Create a simple shell script with a header, comments, and commands. |
