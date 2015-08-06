@@ -2,7 +2,7 @@
 
 ### Content location
 In general Course Content developers should create broad scope, general interest, or basic knowledge courses in the `Introductory` section. Specific topics or ones of narrow scope such as a single software applications should be placed into `Advanced`. Content Developers should keep new topics or folders in a local repository fork until general review by all developers.<br/>
-The exception to this is `Workshops`. Here developers are requested to create/merge institution and date specfic folders of delivered workshops constructed from the source materials provided in `Introductory` or `Advanced`. In this way, a historical chronicle is maintained for both Instructors and Students to reference.
+The exception to this is `Workshops`. Here developers are requested to create/merge folders for each institution (e.g. `UTSW`, `MDACC`) with a subfolder indicating the presentation date in YYYY-MM-DD format (e.g. `2015-08-15`) of delivered workshops constructed from the source materials provided in `Introductory` or `Advanced`. In this way, a historical chronicle is maintained for both Instructors and Students to reference.
 
 ### Objectives
 
