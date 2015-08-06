@@ -1,4 +1,4 @@
-# Course Title Here 
+# Programming the Xeon Phi
 
 ### Course Objectives 
 
