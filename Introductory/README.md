@@ -23,4 +23,5 @@ Introductory materials for various scripting languages and satistical analysis p
 
 A record of previous courses and the accompanying materials can be found under [Workshops](../Workshops).
 
+<br>
 &copy; 2015 Texas Advanced Computing Center
