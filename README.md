@@ -38,9 +38,9 @@ Experience | Course Name | Path
  | [Batch Job Submission](Introductory/JobSubmission)| `/TACC-LSC-Training/Introductory/JobSubmission`
  | [General Computational Tools](Introductory/Tools)<br/>(Python, Perl, R, MATLAB)| `/TACC-LSC-Training/Introductory/Tools`
  | |
-[Advanced](/Advanced) | [Xeon PHI Programming and optimization](Advanced/XeonPhi) | `/TACC-LSC-Training/Advanced/XeonPhi`
+[Advanced](/Advanced) | [Programming the Xeon Phi](Advanced/XeonPhi) | `/TACC-LSC-Training/Advanced/XeonPhi`
  | [Parallel Programming](Advanced/ParallelProg)| `/TACC-LSC-Training/Advanced/ParallelProg`
- | [Virtual Machines](Advanced/VirtualMachines)| `/TACC-LSC-Training/Advanced/VirtualMachines`
+ | [Virtual Machines and Cloud Computing](Advanced/VirtualMachines)| `/TACC-LSC-Training/Advanced/VirtualMachines`
  | [Software Applications](Advanced/Applications)| `/TACC-LSC-Training/Advanced/Applications`
  | |
 [Workshops](/Workshops) | location and times vary | `/TACC-LSC-Training/Workshops`
@@ -49,8 +49,8 @@ Many of the courses are still in development. For now, please see the following 
 
 Course Name |
 ----------- |
-[Intro to HPC for Life Sciences](/Introductory/defunctHPC/IntroToHPCforLSC) |
-[Best Practices in Data Management](/Introductory/DataManagement) |
+[Introduction to Linux](Introductory/IntroToLinux)|
+[Best Practices in Data Management](Introductory/DataManagement) |
 
 
 ### Download
