@@ -1,4 +1,4 @@
-# Course Title Here 
+# Matlab
 
 ### Course Objectives 
 

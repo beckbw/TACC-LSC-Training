@@ -1,4 +1,4 @@
-# Course Title Here 
+# UT System Research Cyberinfrastructure \(UTRC\)
 
 ### Course Objectives 
 

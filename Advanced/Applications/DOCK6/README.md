@@ -1,4 +1,4 @@
-# Course Title Here 
+# DOCK6
 
 ### Course Objectives 
 

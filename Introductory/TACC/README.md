@@ -1,4 +1,4 @@
-# Course Title Here 
+# TACC Resources, Projects, &amp; Allocations
 
 ### Course Objectives 
 

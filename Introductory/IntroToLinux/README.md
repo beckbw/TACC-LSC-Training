@@ -1,4 +1,4 @@
-# Intro to High Performance Computing for Life Sciences
+# Introduction to Linux
 
 ### Course Objectives 
 
@@ -11,9 +11,9 @@
 
 This course is divided into three modules:
 
- 1. Linux Command Line Basics (45 min)
- 2. Text Editing with VIM (30 min)
- 3. Simple Shell Scripting (30 min)
+ 1. Linux Command Line Basics
+ 2. Text Editing with VIM
+ 3. Simple Shell Scripting
 
 
 ### Instructional Objectives
@@ -23,7 +23,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 ### Specific Learning Objectives
 
-| Module 1: Linux Command Line Basics (45 min) |
+| Module 1: Linux Command Line Basics |
 | ---------------------------------------------------------------------------------------- |
 |  &#8226; Brief introduction to the Linux operating system. |
 |  &#8226; Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). |
@@ -41,7 +41,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br/>
 
-| Module 2: Text Editing with VIM (30 min) |
+| Module 2: Text Editing with VIM |
 | ---------------------------------------------------------------------------------------- |
 | &#8226;	Switching back and forth between insert mode (IM) vs. normal mode (NM) (`i, o, O, Esc`). |
 | &#8226;	IM: Entering text as a typical text editor. |
@@ -61,7 +61,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br/>
 
-| Module 3: Simple (`bash`) Shell Scripting (30 min) |
+| Module 3: Simple (`bash`) Shell Scripting |
 | ---------------------------------------------------------------------------------------- |
 | &#8226;	The body of a simple shell script – header, comments, commands, exit. |
 | &#8226;	Assigning variables, manipulating variables. |
@@ -73,9 +73,8 @@ This course is taught as an interactive workshop. Students will actively engage 
 |	&#9702; Change permissions and execute a shell script on the command line. |
 |	&#9702; Write and explain if / else statements, for loops, and while loops. |
 
+
 <br>
-
-
 &copy; 2015 Texas Advanced Computing Center
 
 
