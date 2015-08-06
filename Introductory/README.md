@@ -14,14 +14,13 @@ This folder contains introductory-level materials from the TACC Life Science Com
 
 Introductory materials for various scripting languages and satistical analysis software can also be found by following the link to [Software](Software). The specific course offerings include:
 
-* [Python](/Software/Python) : Very powerful when integrated with Matplotlib, Numpy, and Scipy
-* [Perl](/Software/Perl) : A very fast and intutitive scripting language for quick and dirty jobs
-* [R](/Software/R) : Open source statistical analysis software
-* [Matlab](/Software/Matlab) : License required.
+* [Python](Software/Python) : Very powerful when integrated with Matplotlib, Numpy, and Scipy
+* [Perl](Software/Perl) : A very fast and intutitive scripting language for quick and dirty jobs
+* [R](Software/R) : Open source statistical analysis software
+* [Matlab](Software/Matlab) : License required.
 
 ### Previous Materials
 
 A record of previous courses and the accompanying materials can be found under [Workshops](../Workshops).
-
 
 &copy; 2015 Texas Advanced Computing Center
