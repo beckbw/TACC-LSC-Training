@@ -4,10 +4,10 @@ This page contains introductory-level material for several programming languages
 
 Current course offerings:
 
-* [Python](Tools/Python)
-* [Perl](Tools/Perl)
-* [R](Tools/R)
-* [Matlab](Tools/Matlab)
+* [Python](Python)
+* [Perl](Perl)
+* [R](R)
+* [Matlab](Matlab)
 
 <br>
 &copy; 2015 Texas Advanced Computing Center
