@@ -20,18 +20,18 @@ To aid in quality control and instructional alignment, Contributors will ensure 
 
 ### Courses
 
-Courses are organized hierarchically by folders by `user experience`, `topic`, or `training location/date`.
-* `Introductory` courses are those in which limited prior knowledge or experience is needed to easily undertake the training.<br/>
-* `Advanced` courses generally assume a student will be aware of the content of the `Introductory` courses.
-* `Workshops` are active training sessions (past or future) organized by Institution and date they were presented.
-  * Note: while this workshops contain substantially the same information as in `Introductory` or `Advanced` they will institution specific.
+Courses are organized hierarchically in folders by `user experience/scope`, `topic`, or `training location/date`.
+* `Introductory` courses are those in which limited prior knowledge or experience is needed to easily undertake the training as well as topics with a broad scope or impact.<br/>
+* `Advanced` courses generally assume a student will be aware of the content of the `Introductory` courses and will generic have a more targetted or specifc scope.
+* `Workshops` are specifc training sessions of `Introductory` or `Advanced` courses organized by Institution and Date they were presented.
+  * Note: while workshops will contain substantially the same information as in `Introductory` or `Advanced` they may present institution specific content.
 
-For example:
+#### Catalog
 
 Experience | Topic | Path
 -----------|-------|-------
 [Introductory](/Introductory) | [Intro to HPC for Life Sciences](/Introductory/HPC/IntroToHPCforLSC)| `/TACC-LSC-Training/Introductory/HPC/IntroToHPCforLSC`
-[Advanced](/Advanced) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Advanced/HPC/AdvXeonPHI`
+[Advanced](/Advanced) | Xeon PHI programming and optimization | `/TACC-LSC-Training/Advanced/AdvXeonPHI`
 
 For now click on [Introductory](/Introductory) or [Advanced](/Advanced) to start browsing.
 There is a lot more to come, but for now, perhaps look at the following courses:
