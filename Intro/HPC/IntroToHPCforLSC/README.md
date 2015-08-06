@@ -36,7 +36,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | &#9702; Choose the correct resource at TACC for their research needs. |
 | &#9702; Choose the correct resource at MD Anderson for their research needs. |
 
-<br>
+<br/>
 
 | Module 2: Linux Command Line Basics (45 min) |
 | ---------------------------------------------------------------------------------------- |
@@ -54,9 +54,9 @@ This course is taught as an interactive workshop. Students will actively engage 
 | &#9702; Use all of the commands covered in this module. |
 | &#9702; Find documentation for unknown commands and flags. |
 
-<br>
+<br/>
 **BREAK (5 min)**
-<br><br>
+<br/><br/>
 
 | Module 3: Text Editing with VIM (30 min) |
 | ---------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 |	&#9702; Search for a specific string of text. |
 |	&#9702; Find and replace text. |
 
-<br>
+<br/>
 
 | Module 4: Simple (`bash`) Shell Scripting (30 min) |
 | ---------------------------------------------------------------------------------------- |
@@ -90,9 +90,9 @@ This course is taught as an interactive workshop. Students will actively engage 
 |	&#9702; Change permissions and execute a shell script on the command line. |
 |	&#9702; Write and explain if / else statements, for loops, and while loops. |
 
-<br>
+<br/>
 **BREAK (5 min)**
-<br><br>
+<br/><br/>
 
 | Module 5: Environment, Modules, Job Submission (30 min) |
 | ---------------------------------------------------------------------------------------- |
