@@ -1,5 +1,7 @@
-# Introductory Projects
+# Introductory Courses
 
-You have landed in the introductory projects page. There are likely a few topics to click on from here.
+Current Topics include:
+* [HPC](/HPC) : High Performance Computing
+* [TACC](/TACC) : TACC Resources
 
 
