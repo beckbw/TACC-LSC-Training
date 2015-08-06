@@ -2,7 +2,7 @@
 
 ### Overview
 
-This folder contains introductory-level materials from the TACC Life Sciences Computing group curriculum. For the purposes of organization, we have defined introductory material as that which requires limited to no prior knowledge to complete, and is broad in scope. A detailed list of all topics currently supported by the group is provided below:
+This folder contains introductory-level materials from the TACC Life Sciences Computing group curriculum. For the purposes of organization, we have defined *introductory material* as that which requires limited to no prior knowledge to complete, and is broad in scope. A detailed list of all topics currently supported by the group is provided below:
 
 * [TACC](TACC) : An overview of TACC high performance compute and storage resources
 * [UTRC](UTRC) : An overview of the University of Texas system research cyberinfrastructure
