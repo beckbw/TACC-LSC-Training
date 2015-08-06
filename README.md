@@ -20,8 +20,12 @@ To aid in quality control and instructional alignment, Contributors will ensure 
 
 ### Courses
 
-We intend to host many different courses on this site.
-Currently, courses are organized hierarchically by folders by user experience and topic.
+Courses are organized hierarchically by folders by `user experience`, `topic`, or `training location/date`.
+* `Introductory` courses are those in which limited prior knowledge or experience is needed to easily undertake the training.<br/>
+* `Advanced` courses generally assume a student will be aware of the content of the `Introductory` courses.
+* `Workshops` are active training sessions (past or future) organized by Institution and date they were presented.
+  * Note: while this workshops contain substantially the same information as in `Introductory` or `Advanced` they will institution specific.
+
 For example:
 
 Experience | Topic | Path
