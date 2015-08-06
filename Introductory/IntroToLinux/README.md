@@ -2,36 +2,47 @@
 
 ### Course Objectives
 
-This course is designed to...
+This course is designed to introduce skills required to perform computational research in the life sciences. Students will learn and practice commands in a Linux terminal, the text editor VIM, and basic shell scripting. This material is intended for people who have little to no experience with a command line interface, but intend to use a Linux workstation or HPC cluster for life science research.
 
-This course is divided into xxx modules:
+This course is divided into three modules:
 
- 1. [Title of Module 1](#mod1)
- 2. [Title of Module 2](#mod2)
-
+ 1. [Linux Command Line Basics](#mod1)
+ 2. [Text Editing with VIM](#mod2)
+ 3. [Simple Shell Scripting](#mod3)
 
 ### Instructional Objectives
 
-This course is taught as...
+This course is taught as an interactive workshop. Students will actively engage in course discussion, and participate with working examples in a Linux terminal. As such, it is necessary that students have access to a command line interface for the course. It should be taught in a room equipped with computers and internet access. Rooms not equipped with computers will work if the students bring their own laptops and have internet access. Students should also have an existing allocation on a TACC or Host Institution resource. Students without an allocation can still participate in most components of the workshop if they have a Mac / Linux laptop, or a Windows laptop with Putty installed and access to a Linux server.
 
 
 ### Specific Learning Objectives
 
 
+| <a name="mod1"></a>Module 1: Linux Command Line Basics |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> Brief introduction to the Linux operating system. </li><li> Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). </li><li> Creating and manipulating files (`touch, rm, mv, cp, vim`). </li><li> Looking at the contents of files (`cat, more, less, head, tail`). </li><li> More files commands (`ln, chmod, grep, tar, gzip`). </li><li> Network and file transfers (`hostname, whoami, ssh, scp, rsync`). </li><li> Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). </li><li> Shortcuts (`Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &`) </li></ul> |
+| **Students should be able to...** |
+| <ul><li> List benefits and capabilities of a command line interface. </li><li> Use all of the commands covered in this module. </li><li> Find documentation for unknown commands and flags. </li></ul> |
+| **Assessment activities** |
+| <ul><li> Discussion: How will HPC help your research project? </li><li> Go to the TACC User Portal and MD Anderson HPCWeb: Find and record the process for asking questions and getting help. </li><li> Log on to a cluster or server and read the welcome text. </li></ul> |
 
-| <a name="mod1"></a>Module 1: Title of Module 1 |
+<br>
+
+| <a name="mod2"></a>Module 2: Title of Module 2 |
 | --- |
 | |
 | **Topics covered in this module:** |
 | <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li></ul> |
 | **Students should be able to...** |
 | <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
-| **Assessment activities** |
+| **Assessment activities:** |
 | <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
 
 <br>
 
-| <a name="mod2"></a>Module 2: Title of Module 2 |
+| <a name="mod3"></a>Module 3: Title of Module 2 |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -46,45 +57,6 @@ This course is taught as...
 &copy; 2015 Texas Advanced Computing Center
 
 
-
-### Course Objectives 
-
-**This course is designed to introduce skills required to perform computational research in the life sciences.**
-* An overview of different compute and storage resources are described, with a focus on those available at TACC or Host Institutions.
- * Students will learn and practice commands in a Linux terminal, the text editor VIM, and basic shell scripting.
- * The workshop will also cover essential topics for the life sciences in high performance computing including environment variables, modules, and batch job submission.
-* **Intended Audience**
- * This ~3-hour workshop is intended for people who have little to no experience with a command line interface, but intend to use a Linux workstation or HPC cluster for life science research.
-
-This course is divided into three modules:
-
- 1. Linux Command Line Basics
- 2. Text Editing with VIM
- 3. Simple Shell Scripting
-
-
-### Instructional Objectives
-
-This course is taught as an interactive workshop. Students will actively engage in course discussion, and participate with working examples in a Linux terminal. As such, it is necessary that students have access to a command line interface for the course. It should be taught in a room equipped with computers and internet access. Rooms not equipped with computers will work if the students bring their own laptops and have internet access. Students should also have an existing allocation on a TACC or Host Institution resource. Students without an allocation can still participate in most components of the workshop if they have a Mac / Linux laptop, or a Windows laptop with Putty installed and access to a Linux server.
-
-
-### Specific Learning Objectives
-
-| Module 1: Linux Command Line Basics |
-| ---------------------------------------------------------------------------------------- |
-|  &#8226; Brief introduction to the Linux operating system. |
-|  &#8226; Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). |
-|  &#8226; Creating and manipulating files (`touch, rm, mv, cp, vim`). |
-|  &#8226; Looking at the contents of files (`cat, more, less, head, tail`). |
-|  &#8226; More files commands (`ln, chmod, grep, tar, gzip`). |
-|  &#8226;	Network and file transfers (`hostname, whoami, ssh, scp, rsync`). |
-|  &#8226;	Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). |
-|  &#8226;	Shortcuts (`Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &`) |
-|  |
-|	**Students should be able to…** |
-| &#9702; List benefits and capabilities of a command line interface. |
-| &#9702; Use all of the commands covered in this module. |
-| &#9702; Find documentation for unknown commands and flags. |
 
 <br/>
 
