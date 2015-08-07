@@ -48,8 +48,7 @@ This course should be taught in a room equipped with computers and internet acce
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li> How old is your data and when is it time to archive it? </li><li> o	Zipping and archiving files and directories (`gzip, gzip -r9, gunzip, tar -czf, tar -xzf`). </li><li> Transferring data from point to point (`rsync, scp, sftp,` WinSCP).
- </li><li> Staging data on Ranch (TACC) or Host Institution tape filesystem for archiving. </li></ul> |
+| <ul><li> How old is your data and when is it time to archive it? </li><li> o	Zipping and archiving files and directories (`gzip, gzip -r9, gunzip, tar -czf, tar -xzf`). </li><li> Transferring data from point to point (`rsync, scp, sftp,` WinSCP). </li><li> Staging data on Ranch (TACC) or Host Institution tape filesystem for archiving. </li></ul> |
 | **Students should be able to...** |
 | <ul><li> Judge whether it is appropriate to keep active or archive data. </li><li> Zip and unzip files with gzip / gunzip. </li><li> Compress and extract archives with tar. </li><li> Transfer data efficiently between systems. </li><li> Stage data on a tape file systems for transferring to and from. </li></ul> |
 | **Assessment activities:** |
