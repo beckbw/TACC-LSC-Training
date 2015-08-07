@@ -21,7 +21,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 ### Specific Learning Objectives
 
-| <a name="mod1"></a>Module 1: Overview of TACC / MD Anderson Compute and Storage Resources |
+| <a name="mod1"></a>Module 1: Overview of TACC / MD Anderson Compute and Storage Resources (15 min) |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -33,7 +33,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br/>
 
-| <a name="mod2"></a>Module 2: Linux Command Line Basics |
+| <a name="mod2"></a>Module 2: Linux Command Line Basics (45 min) |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -47,7 +47,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 **BREAK (5 min)**
 <br/><br/>
 
-| <a name="mod3"></a>Module 3: Text Editing with VIM |
+| <a name="mod3"></a>Module 3: Text Editing with VIM (30 min) |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -59,7 +59,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br>
 
-| <a name="mod4"></a>Module 4: Simple (`bash`) Shell Scripting |
+| <a name="mod4"></a>Module 4: Simple (`bash`) Shell Scripting (30 min) |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -75,7 +75,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 
 
-| <a name="mod5"></a>Module 5: Environment, Modules, and Batch Job Submission |
+| <a name="mod5"></a>Module 5: Environment, Modules, and Batch Job Submission (30 min) |
 | --- |
 | |
 | **Topics covered in this module:** |
