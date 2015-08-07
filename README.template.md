@@ -26,7 +26,7 @@ This course is taught as...
 | <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li></ul> |
 | **Students should be able to...** |
 | <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
-| **Assessment activities** |
+| **Assessment activities:** |
 | <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
 
 <br>
