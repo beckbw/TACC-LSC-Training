@@ -1,5 +1,9 @@
 # Intro to High Performance Computing for Life Sciences
 
+**Course Presented:** MD Anderson Cancer Center, Room 1MC13.3311
+**Date and Time:** Friday, August 14th, 2015, 9:00 am - 12:00 pm
+**Presenter:** Joe Allen (wallen [at] tacc.utexas.edu)
+
 ### Course Objectives 
 
 This workshop is designed to introduce skills required to perform computational research in the life sciences. First, an overview of different compute and storage resources are described, with a focus on those available at TACC or MD Anderson. Students will learn and practice commands in a Linux terminal, the text editor VIM, and basic shell scripting. The workshop will also cover essential topics for the life sciences in high performance computing including environment variables, modules, and batch job submission. This ~3-hour workshop is intended for people who have little to no experience with a command line interface, but intend to use a Linux workstation or HPC cluster for life science research.
