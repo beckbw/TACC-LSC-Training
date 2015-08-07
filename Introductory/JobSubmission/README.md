@@ -27,7 +27,7 @@ This course should be taught in a room equipped with computers and internet acce
 | **Students should be able to...** |
 | <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Display a list of all available moduels. </li><li> Read the module description for packages you use. </li></ul> |
+| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li></ul> |
 
 <br>
 
