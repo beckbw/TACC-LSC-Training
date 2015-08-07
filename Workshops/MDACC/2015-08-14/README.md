@@ -2,14 +2,9 @@
 
 ### Course Objectives 
 
-**This course is designed to introduce skills required to perform computational research in the life sciences.**
-* An overview of different compute and storage resources are described, with a focus on those available at TACC or Host Institutions.
- * Students will learn and practice commands in a Linux terminal, the text editor VIM, and basic shell scripting.
- * The workshop will also cover essential topics for the life sciences in high performance computing including environment variables, modules, and batch job submission.
-* **Intended Audience**
- * This ~3-hour workshop is intended for people who have little to no experience with a command line interface, but intend to use a Linux workstation or HPC cluster for life science research.
+This workshop is designed to introduce skills required to perform computational research in the life sciences. First, an overview of different compute and storage resources are described, with a focus on those available at TACC or MD Anderson. Students will learn and practice commands in a Linux terminal, the text editor VIM, and basic shell scripting. The workshop will also cover essential topics for the life sciences in high performance computing including environment variables, modules, and batch job submission. This ~3-hour workshop is intended for people who have little to no experience with a command line interface, but intend to use a Linux workstation or HPC cluster for life science research.
 
-This course is divided into five modules:
+This workshop is divided into five modules:
 
  1. Overview of Compute and Storage Resources (15 min)
  2. Linux Command Line Basics (45 min)
@@ -21,6 +16,7 @@ This course is divided into five modules:
 ### Instructional Objectives
 
 This course is taught as an interactive workshop. Students will actively engage in course discussion, and participate with working examples in a Linux terminal. As such, it is necessary that students have access to a command line interface for the course. It should be taught in a room equipped with computers and internet access. Rooms not equipped with computers will work if the students bring their own laptops and have internet access. Students should also have an existing allocation on a TACC or Host Institution resource. Students without an allocation can still participate in most components of the workshop if they have a Mac / Linux laptop, or a Windows laptop with Putty installed and access to a Linux server.
+
 
 
 ### Specific Learning Objectives
