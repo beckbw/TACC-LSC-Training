@@ -21,21 +21,12 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 ### Specific Learning Objectives
 
-| Module 1: Overview of Compute and Storage Resources (15 min) |
-| ---------------------------------------------------------------------------------------- |
-| &#8226; What is high performance computing and why is it useful? |
-| &#8226; Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch). |
-| &#8226; Compute resources at MD Anderson (Shark, Nautilus). |
-|  |
-| **Students should be able to…** |
-| &#9702; Describe possible applications for HPC in the life sciences. |
-| &#9702; Choose the correct resource at TACC for their research needs. |
-| &#9702; Choose the correct resource at MD Anderson for their research needs. |
+TABLE
 
 <br/>
 
 
-| <a name="mod1"></a>Module 1: Linux Command Line Basics |
+| <a name="mod1"></a>Module 2: Linux Command Line Basics |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -45,9 +36,11 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Assessment activities:** |
 | <ul><li> `Exercise01.tar:` Renaming directories for better organization. </li><li> `Exercise02.tar:` Manipulating existing files (word list and fasta). </li></ul> |
 
-<br>
+<br/>
+**BREAK (5 min)**
+<br/><br/>
 
-| <a name="mod2"></a>Module 2: Text Editing with VIM |
+| <a name="mod2"></a>Module 3: Text Editing with VIM |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -59,7 +52,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br>
 
-| <a name="mod3"></a>Module 3: Simple (`bash`) Shell Scripting |
+| <a name="mod3"></a>Module 4: Simple (`bash`) Shell Scripting |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -68,58 +61,6 @@ This course is taught as an interactive workshop. Students will actively engage 
 | <ul><li> Create a simple shell script with a header, comments, and commands. </li><li> Change permissions and execute a shell script on the command line. </li><li> Write and explain if / else statements, for loops, and while loops. </li></ul> |
 | **Assessment activities:** |
 | <ul><li> Exercise03.tar: Pipeline common commands to set up a project. </li><li> Exercise04.tar: Write some simple control structures. </li></ul> |
-
-| Module 2: Linux Command Line Basics (45 min) |
-| ---------------------------------------------------------------------------------------- |
-|  &#8226; Brief introduction to the Linux operating system. |
-|  &#8226; Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). |
-|  &#8226; Creating and manipulating files (`touch, rm, mv, cp, vim`). |
-|  &#8226; Looking at the contents of files (`cat, more, less, head, tail`). |
-|  &#8226; More files commands (`ln, chmod, grep, tar, gzip`). |
-|  &#8226;	Network and file transfers (`hostname, whoami, ssh, scp, rsync`). |
-|  &#8226;	Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). |
-|  &#8226;	Shortcuts (`Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &`) |
-|  |
-|	**Students should be able to…** |
-| &#9702; List benefits and capabilities of a command line interface. |
-| &#9702; Use all of the commands covered in this module. |
-| &#9702; Find documentation for unknown commands and flags. |
-
-<br/>
-**BREAK (5 min)**
-<br/><br/>
-
-| Module 3: Text Editing with VIM (30 min) |
-| ---------------------------------------------------------------------------------------- |
-| &#8226;	Switching back and forth between insert mode (IM) vs. normal mode (NM) (`i, o, O, Esc`). |
-| &#8226;	IM: Entering text as a typical text editor. |
-| &#8226;	NM: Navigating a file (`<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d`). |
-| &#8226;	NM: Deleting, coping, and pasting text (`x, dw, dd, yy, p, P, <number><command>`). |
-| &#8226;	NM: Searching for text (`/pattern, n, N`). |
-| &#8226;	NM: The command line (`:, :<line number>, :%s/find/replace/gc, :read <file>`). |
-| &#8226;	NM: Saving and quitting (`:w, :wq, :q, :q!`). |
-| &#8226;	NM: Other useful things to know (`u, Ctrl+r, .`) |
-|  |
-| **Students should be able to…** |
-|	&#9702; Open, edit, and save documents with VIM. |
-|	&#9702; Switch back and forth between insert mode and normal mode. |
-|	&#9702; Navigate to different parts of a file quickly. |
-|	&#9702; Search for a specific string of text. |
-|	&#9702; Find and replace text. |
-
-<br/>
-
-| Module 4: Simple (`bash`) Shell Scripting (30 min) |
-| ---------------------------------------------------------------------------------------- |
-| &#8226;	The body of a simple shell script – header, comments, commands, exit. |
-| &#8226;	Assigning variables, manipulating variables. |
-| &#8226;	Conditionals with `if` / `elif` / `else`. |
-| &#8226;	Loop control with `while` and `for`. |
-|  |
-| **Students should be able to…** |
-| &#9702; Create a simple shell script with a header, comments, and commands. |
-|	&#9702; Change permissions and execute a shell script on the command line. |
-|	&#9702; Write and explain if / else statements, for loops, and while loops. |
 
 <br/>
 **BREAK (5 min)**
