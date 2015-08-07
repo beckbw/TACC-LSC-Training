@@ -1,55 +1,48 @@
 # Batch Job Submission
 
-### Course Objectives 
+### Course Objectives
 
-**This course is designed to 
+The workshop is designed to introduce skills required to perform computational research in the life sciences. It will cover topics in high performance computing including environment variables, modules, and batch job submission. This workshop is intended for people who have some experience with a command line interface, and intend to use a Linux workstation or HPC cluster for life science research.
 
-This course is divided into xxx modules:
+This course is divided into two modules:
 
- 1. Overview of X (X min)
- 2. The Basics of X (X min)
+ 1. [Environment and Modules](#mod1)
+ 2. [Batch Job Submission](#mod2)
 
 
 ### Instructional Objectives
 
-This course is taught as 
+This course should be taught in a room equipped with computers and internet access. Rooms not equipped with computers will work if the students bring their own laptops and have internet access. Students should also have an existing allocation on a TACC or Host Institution resource. Students without an allocation can still participate in most components of the workshop if they have a Mac / Linux laptop, or a Windows laptop with Putty installed and access to a Linux server.
 
 
 ### Specific Learning Objectives
 
-| Module 1: Overview of X (X min) |
-| ---------------------------------------------------------------------------------------- |
-| &#8226; What is high performance computing and why is it useful? |
-| &#8226; Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch). |
-| &#8226; Compute resources at MD Anderson (Shark, Nautilus). |
-|  |
-| **Students should be able to…** |
-| &#9702; Describe possible applications for HPC in the life sciences. |
-| &#9702; Choose the correct resource at TACC for their research needs. |
-| &#9702; Choose the correct resource at MD Anderson for their research needs. |
 
-<br/>
 
-| Module 2: The Basics of X (X min) |
-| ---------------------------------------------------------------------------------------- |
-|  &#8226; Brief introduction to the Linux operating system. |
-|  &#8226; Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). |
-|  &#8226; Creating and manipulating files (`touch, rm, mv, cp, vim`). |
-|  &#8226; Looking at the contents of files (`cat, more, less, head, tail`). |
-|  &#8226; More files commands (`ln, chmod, grep, tar, gzip`). |
-|  &#8226;	Network and file transfers (`hostname, whoami, ssh, scp, rsync`). |
-|  &#8226;	Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). |
-|  &#8226;	Shortcuts (`Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &`) |
-|  |
-|	**Students should be able to…** |
-| &#9702; List benefits and capabilities of a command line interface. |
-| &#9702; Use all of the commands covered in this module. |
-| &#9702; Find documentation for unknown commands and flags. |
-
+| <a name="mod1"></a>Module 1: Environment and Modules |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> Environment variables – purpose, printing, and defining (echo, env, export). </li><li> Modules – listing, loading, and unloading. </li><li> Automating environment variables, module commands, and aliases in .bash_profile. </li></ul> |
+| **Students should be able to...** |
+| <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li></ul> |
 
 <br>
 
+| <a name="mod2"></a>Module 2: Batch Job Submission |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> Batch job submission, commands dependent on system (qsub, showq, qdel). </li></ul> |
+| **Students should be able to...** |
+| <ul><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> Exercise01.tar: Complete a batch submission script. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
 
+
+<br>
 &copy; 2015 Texas Advanced Computing Center
 
 
