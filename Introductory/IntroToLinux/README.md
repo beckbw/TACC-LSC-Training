@@ -17,7 +17,6 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 ### Specific Learning Objectives
 
-
 | <a name="mod1"></a>Module 1: Linux Command Line Basics |
 | --- |
 | |
