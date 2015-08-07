@@ -20,30 +20,23 @@ To aid in quality control and instructional alignment, Contributors will ensure 
 
 ### Courses
 
-Courses are organized hierarchically in folders by user experience, scope, topic, and training location / date.
+Courses and materials are organized hierarchically in folders by user experience, scope, topic, training location, and date.
 * [Introductory](Introductory) courses are those in which limited prior knowledge or experience is needed to easily undertake the training as well as topics with a broad scope or impact.
 * [Advanced](Advanced) courses generally assume a student will be aware of the content of the Introductory courses and will generic have a more targetted or specific scope.
 * [Workshops](Workshops) are specific training sessions of Introductory or Advanced courses organized by the host institution and date they were presented.
 
 Note: While Workshops will contain substantially the same information as is in Introductory or Advanced, they will likely present institution specific content as well.
 
-#### Catalog
+| Course Catalog |
+| --- |
+| |
+| [Introductory](/Introductory) |
+| <ul><li> [TACC Resources, Projects, &amp; Allocations](Introductory/TACC) </li><li> [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC) </li><li> [Introduction to Linux](Introductory/IntroToLinux) </li><li> [Best Practices in Data Management](Introductory/DataManagement) </li><li> [Batch Job Submission](Introductory/JobSubmission) </li><li> [Computational Tools](Introductory/Tools) </li></ul> |
+| [Advanced](/Advanced) |
+| <ul><li> [Programming the Xeon Phi](Advanced/XeonPhi) </li><li> [Parallel Programming](Advanced/ParallelProg) </li><li> [Virtual Machines and Cloud Computing](Advanced/VirtualMachines) </li><li> [Software Applications](Advanced/Applications) </li></ul> |
+| [Workshops](/Workshops) |
+| <ul><li> Locations and times vary </li></ul> |
 
-Experience | Course Name 
------------|-------
-[Introductory](/Introductory) | [TACC Resources, Projects, &amp; Allocations](Introductory/TACC)
- | [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC)
- | [Introduction to Linux](Introductory/IntroToLinux)
- | [Best Practices in Data Management](Introductory/DataManagement)
- | [Batch Job Submission](Introductory/JobSubmission)
- | [Computational Tools](Introductory/Tools)
- | 
-[Advanced](/Advanced) | [Programming the Xeon Phi](Advanced/XeonPhi) 
- | [Parallel Programming](Advanced/ParallelProg)
- | [Virtual Machines and Cloud Computing](Advanced/VirtualMachines)
- | [Software Applications](Advanced/Applications)
- |
-[Workshops](/Workshops) | Locations and times vary 
 
 Many of the courses are still in development. For now, please see the following courses:
 
