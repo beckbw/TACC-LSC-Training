@@ -34,16 +34,9 @@ Note: While Workshops will contain substantially the same information as is in I
 | <ul><li> [TACC Resources, Projects, &amp; Allocations](Introductory/TACC) </li><li> [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC) </li><li> [Introduction to Linux](Introductory/IntroToLinux) </li><li> [Best Practices in Data Management](Introductory/DataManagement) </li><li> [Batch Job Submission](Introductory/JobSubmission) </li><li> [Computational Tools](Introductory/Tools) </li></ul> |
 | [Advanced](/Advanced) |
 | <ul><li> [Programming the Xeon Phi](Advanced/XeonPhi) </li><li> [Parallel Programming](Advanced/ParallelProg) </li><li> [Virtual Machines and Cloud Computing](Advanced/VirtualMachines) </li><li> [Software Applications](Advanced/Applications) </li></ul> |
-| [Workshops](/Workshops) |
+| [Recent Workshops](/Workshops) |
 | <ul><li> Locations and times vary </li></ul> |
 
-
-Many of the courses are still in development. For now, please see the following courses:
-
-Course Name |
------------ |
-[Introduction to Linux](Introductory/IntroToLinux)|
-[Best Practices in Data Management](Introductory/DataManagement) |
 
 
 ### Download
