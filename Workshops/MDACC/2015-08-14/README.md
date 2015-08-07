@@ -37,7 +37,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li> Brief introduction to the Linux operating system. </li><li> Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). </li><li> Creating and manipulating files (`touch, rm, mv, cp, vim`). </li><li> Looking at the contents of files (`cat, more, less, head, tail`). </li><li> More files commands (`ln, chmod, grep, tar, gzip`). </li><li> Network and file transfers (`hostname, whoami, ssh, scp, rsync`). </li><li> Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). </li><li> Shortcuts (`Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &`). </li></ul> |
+| <ul><li> Brief introduction to the Linux operating system. </li><li> Looking and moving around (`pwd`, `ls`, `mkdir`, `cd`, `rmdir`). </li><li> Creating and manipulating files (`touch`, `rm`, `mv`, `cp`, `vim`). </li><li> Looking at the contents of files (`cat`, `more`, `less`, `head`, `tail`). </li><li> More files commands (`ln`, `chmod`, `grep`, `tar`, `gzip`). </li><li> Network and file transfers (`hostname`, `whoami`, `ssh`, `scp`, `rsync`). </li><li> Miscellaneous commands (`man`, `which`, `diff`, `df`, `du`, `date`, `history`, `logout`). </li><li> Shortcuts (`Tab`, `Up Arrow`, `Ctrl+c`, `Ctrl+d`, `./`, `../`, `~/`, `>`, `>>`, `*`, `|`, `&`). </li></ul> |
 | **Students should be able to...** |
 | <ul><li> List benefits and capabilities of a command line interface. </li><li> Use all of the commands covered in this module. </li><li> Find documentation for unknown commands and flags. </li></ul> |
 | **Assessment activities:** |
@@ -83,7 +83,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> Exercise01.tar: Complete a batch submission script. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
+| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> `Exercise05.tar:` Complete a batch submission script. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
 
 
 <br>
