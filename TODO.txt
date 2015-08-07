@@ -4,3 +4,6 @@
 * Put lectures into the skeleton
 * Put in workshops we have already done
 *
+* Improved asynchronous content
+* is there a mechanism for hiding folders / unfinished products
+* Split python into a bunch of different python courses
