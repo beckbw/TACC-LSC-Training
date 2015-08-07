@@ -30,67 +30,27 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br>
 
-| <a name="mod2"></a>Module 2: Title of Module 2 |
+| <a name="mod2"></a>Module 2: Text Editing with VIM |
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li></ul> |
+| <ul><li> Switching back and forth between insert mode (IM) vs. normal mode (NM) (`i, o, O, Esc`). </li><li> IM: Entering text as a typical text editor. </li><li> NM: Navigating a file (`<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d`). </li><li> NM: Deleting, coping, and pasting text (`x, dw, dd, yy, p, P, <number><command>`). </li><li> NM: Searching for text (`/pattern, n, N`). </li><li> NM: The command line (`:, :<line number>, :%s/find/replace/gc, :read <file>`). </li><li> NM: Saving and quitting (`:w, :wq, :q, :q!`). </li><li> NM: Other useful things to know (`u, Ctrl+r, .`). </li></ul> |
 | **Students should be able to...** |
-| <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
+| <ul><li> Open, edit, and save documents with VIM. </li><li> Switch back and forth between insert mode and normal mode. </li><li> Navigate to different parts of a file quickly. </li><li> Search for a specific string of text. </li><li> Find and replace text. </li></ul> |
 | **Assessment activities:** |
-| <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
+| <ul><li> Learn by practice! Dive headfirst into Module 4! </li><li> Other practice tools available: vimtutor, vim-adventures.com. </li></ul> |
 
 <br>
 
-| <a name="mod3"></a>Module 3: Title of Module 2 |
+| <a name="mod3"></a>Module 3: Simple (`bash`) Shell Scripting |
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li></ul> |
+| <ul><li> The body of a simple shell script – header, comments, commands, exit. </li><li> Assigning variables, manipulating variables. </li><li> Conditionals with `if` / `elif` / `else`. </li><li> Loop control with `while` and `for`. </li></ul> |
 | **Students should be able to...** |
-| <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
+| <ul><li> Create a simple shell script with a header, comments, and commands. </li><li> Change permissions and execute a shell script on the command line. </li><li> Write and explain if / else statements, for loops, and while loops. </li></ul> |
 | **Assessment activities:** |
-| <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
-
-
-<br>
-&copy; 2015 Texas Advanced Computing Center
-
-
-
-<br/>
-
-| Module 2: Text Editing with VIM |
-| ---------------------------------------------------------------------------------------- |
-| &#8226;	Switching back and forth between insert mode (IM) vs. normal mode (NM) (`i, o, O, Esc`). |
-| &#8226;	IM: Entering text as a typical text editor. |
-| &#8226;	NM: Navigating a file (`<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d`). |
-| &#8226;	NM: Deleting, coping, and pasting text (`x, dw, dd, yy, p, P, <number><command>`). |
-| &#8226;	NM: Searching for text (`/pattern, n, N`). |
-| &#8226;	NM: The command line (`:, :<line number>, :%s/find/replace/gc, :read <file>`). |
-| &#8226;	NM: Saving and quitting (`:w, :wq, :q, :q!`). |
-| &#8226;	NM: Other useful things to know (`u, Ctrl+r, .`) |
-|  |
-| **Students should be able to…** |
-|	&#9702; Open, edit, and save documents with VIM. |
-|	&#9702; Switch back and forth between insert mode and normal mode. |
-|	&#9702; Navigate to different parts of a file quickly. |
-|	&#9702; Search for a specific string of text. |
-|	&#9702; Find and replace text. |
-
-<br/>
-
-| Module 3: Simple (`bash`) Shell Scripting |
-| ---------------------------------------------------------------------------------------- |
-| &#8226;	The body of a simple shell script – header, comments, commands, exit. |
-| &#8226;	Assigning variables, manipulating variables. |
-| &#8226;	Conditionals with `if` / `elif` / `else`. |
-| &#8226;	Loop control with `while` and `for`. |
-|  |
-| **Students should be able to…** |
-| &#9702; Create a simple shell script with a header, comments, and commands. |
-|	&#9702; Change permissions and execute a shell script on the command line. |
-|	&#9702; Write and explain if / else statements, for loops, and while loops. |
+| <ul><li> Exercise03.tar: Pipeline common commands to set up a project. </li><li> Exercise04.tar: Write some simple control structures. </li></ul> |
 
 
 <br>
