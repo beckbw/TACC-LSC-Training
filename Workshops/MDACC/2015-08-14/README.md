@@ -6,11 +6,11 @@ This workshop is designed to introduce skills required to perform computational 
 
 This workshop is divided into five modules:
 
- 1. Overview of Compute and Storage Resources (15 min)
- 2. Linux Command Line Basics (45 min)
- 3. Text Editing with VIM (30 min)
- 4. Simple Shell Scripting (30 min)
- 5. Environment, Modules, Job Submission (30 min)
+ 1. [Overview of Compute and Storage Resources](#mod1) (15 min)
+ 2. [Linux Command Line Basics](#mod2) (45 min)
+ 3. [Text Editing with VIM](#mod3) (30 min)
+ 4. [Simple Shell Scripting](#mod4) (30 min)
+ 5. [Environment, Modules, Job Submission](#mod5) (30 min)
 
 
 ### Instructional Objectives
@@ -21,12 +21,19 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 ### Specific Learning Objectives
 
-TABLE
+| <a name="mod1"></a>Module 1: Overview of TACC / MD Anderson Compute and Storage Resources |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> What is high performance computing and why is it useful? </li><li> Compute resources at TACC (Lonestar, Stampede, Maverick, Corral, Ranch). </li><li> Compute resources at MD Anderson (Shark, Nautilus). </li></ul> |
+| **Students should be able to...** |
+| <ul><li> Describe possible applications for HPC in the life sciences. </li><li> Choose the correct resource at TACC for their research needs. </li><li> Choose the correct resource at MD Anderson for their research needs. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> Discussion: How will HPC help your research project? </li><li> Go to the TACC User Portal and MD Anderson HPCWeb: Find and record the process for asking questions and getting help. </li><li> Log on to a cluster or server and read the welcome text. </li></ul> |
 
 <br/>
 
-
-| <a name="mod1"></a>Module 2: Linux Command Line Basics |
+| <a name="mod2"></a>Module 2: Linux Command Line Basics |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -40,7 +47,7 @@ TABLE
 **BREAK (5 min)**
 <br/><br/>
 
-| <a name="mod2"></a>Module 3: Text Editing with VIM |
+| <a name="mod3"></a>Module 3: Text Editing with VIM |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -52,7 +59,7 @@ TABLE
 
 <br>
 
-| <a name="mod3"></a>Module 4: Simple (`bash`) Shell Scripting |
+| <a name="mod4"></a>Module 4: Simple (`bash`) Shell Scripting |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -66,26 +73,20 @@ TABLE
 **BREAK (5 min)**
 <br/><br/>
 
-| Module 5: Environment, Modules, Job Submission (30 min) |
-| ---------------------------------------------------------------------------------------- |
-| &#8226;	Environment variables – purpose, printing, and defining (`echo, env, export`). |
-| &#8226;	Modules – listing, loading, and unloading. |
-| &#8226;	Automating environment variables, module commands, and aliases in `.bash_profile`. |
-| &#8226;	Batch job submission, commands dependent on system (`qsub, showq, qdel`). |
-|  |
-|	**Students should be able to…** |
-|  &#9702;	Display their current environment variables. |
-|  &#9702;	Change existing and create new environment variables. |
-|  &#9702;	List modules currently loaded in their environment. |
-|  &#9702;	Load and unloaded modules. |
-|  &#9702;	Describe the effects of a module load command. |
-|  &#9702;	Automate module and environment commands in the .bash_profile. |
-|  &#9702;	Write batch job submission scripts. |
-|  &#9702;	Submit jobs to a queue. |
-|  &#9702;	Monitor jobs in a queue and delete jobs from a queue. |
+
+
+| <a name="mod5"></a>Module 5: Environment, Modules, and Batch Job Submission |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> Environment variables – purpose, printing, and defining (echo, env, export). </li><li> Modules – listing, loading, and unloading. </li><li> Automating environment variables, module commands, and aliases in .bash_profile. </li><li> Batch job submission, commands dependent on system (qsub, showq, qdel). </li></ul> |
+| **Students should be able to...** |
+| <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> Exercise01.tar: Complete a batch submission script. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
+
 
 <br>
-
 
 &copy; 2015 Texas Advanced Computing Center
 
