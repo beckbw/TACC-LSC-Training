@@ -1,7 +1,7 @@
 # Intro to High Performance Computing for Life Sciences
 
 * **Course Location:** MD Anderson Cancer Center, Room 1MC13.3311
-* **Date and Time:** Friday, August 14th, 2015, 9:00 am - 12:00 pm
+* **Date and Time:** Friday, August 14th, 2015, 9:00am - 12:00pm
 * **Presenter:** Joe Allen (wallen [at] tacc.utexas.edu)
 
 ### Course Objectives 
