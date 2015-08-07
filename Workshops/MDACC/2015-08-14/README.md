@@ -51,7 +51,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li> Switching back and forth between insert mode (IM) vs. normal mode (NM) (`i, o, O, Esc`). </li><li> IM: Entering text as a typical text editor. </li><li> NM: Navigating a file (`<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d`). </li><li> NM: Deleting, coping, and pasting text (`x, dw, dd, yy, p, P, <number><command>`). </li><li> NM: Searching for text (`/pattern, n, N`). </li><li> NM: The command line (`:, :<line number>, :%s/find/replace/gc, :read <file>`). </li><li> NM: Saving and quitting (`:w, :wq, :q, :q!`). </li><li> NM: Other useful things to know (`u, Ctrl+r, .`). </li></ul> |
+| <ul><li> Switching back and forth between insert mode (IM) vs. normal mode (NM) (`i`, `o`, `O`, `Esc`). </li><li> IM: Entering text as a typical text editor. </li><li> NM: Navigating a file (`<arrow keys>`, `hjkl`, `0`, `$`, `gg`, `G`, `Ctrl+u`, `Ctrl+d`). </li><li> NM: Deleting, coping, and pasting text (`x`, `dw`, `dd`, `yy`, `p`, `P`, `<number><command>`). </li><li> NM: Searching for text (`/pattern`, `n`, `N`). </li><li> NM: The command line (`:`, `:<line number>`, `:%s/find/replace/gc`, `:read <file>`). </li><li> NM: Saving and quitting (`:w`, `:wq`, `:q`, `:q!`). </li><li> NM: Other useful things to know (`u`, `Ctrl+r`, `.`). </li></ul> |
 | **Students should be able to...** |
 | <ul><li> Open, edit, and save documents with VIM. </li><li> Switch back and forth between insert mode and normal mode. </li><li> Navigate to different parts of a file quickly. </li><li> Search for a specific string of text. </li><li> Find and replace text. </li></ul> |
 | **Assessment activities:** |
