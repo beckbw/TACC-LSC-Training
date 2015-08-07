@@ -34,6 +34,41 @@ This course is taught as an interactive workshop. Students will actively engage 
 
 <br/>
 
+
+| <a name="mod1"></a>Module 1: Linux Command Line Basics |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> Brief introduction to the Linux operating system. </li><li> Looking and moving around (`pwd, ls, mkdir, cd, rmdir`). </li><li> Creating and manipulating files (`touch, rm, mv, cp, vim`). </li><li> Looking at the contents of files (`cat, more, less, head, tail`). </li><li> More files commands (`ln, chmod, grep, tar, gzip`). </li><li> Network and file transfers (`hostname, whoami, ssh, scp, rsync`). </li><li> Miscellaneous commands (`man, which, diff, df, du, date, history, logout`). </li><li> Shortcuts (`Tab, Up Arrow, Ctrl+c, Ctrl+d, ./, ../, ~/, >, >>, *, |, &`). </li></ul> |
+| **Students should be able to...** |
+| <ul><li> List benefits and capabilities of a command line interface. </li><li> Use all of the commands covered in this module. </li><li> Find documentation for unknown commands and flags. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> `Exercise01.tar:` Renaming directories for better organization. </li><li> `Exercise02.tar:` Manipulating existing files (word list and fasta). </li></ul> |
+
+<br>
+
+| <a name="mod2"></a>Module 2: Text Editing with VIM |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> Switching back and forth between insert mode (IM) vs. normal mode (NM) (`i, o, O, Esc`). </li><li> IM: Entering text as a typical text editor. </li><li> NM: Navigating a file (`<arrow keys>, hjkl, 0, $, gg, G, Ctrl+u. Ctrl+d`). </li><li> NM: Deleting, coping, and pasting text (`x, dw, dd, yy, p, P, <number><command>`). </li><li> NM: Searching for text (`/pattern, n, N`). </li><li> NM: The command line (`:, :<line number>, :%s/find/replace/gc, :read <file>`). </li><li> NM: Saving and quitting (`:w, :wq, :q, :q!`). </li><li> NM: Other useful things to know (`u, Ctrl+r, .`). </li></ul> |
+| **Students should be able to...** |
+| <ul><li> Open, edit, and save documents with VIM. </li><li> Switch back and forth between insert mode and normal mode. </li><li> Navigate to different parts of a file quickly. </li><li> Search for a specific string of text. </li><li> Find and replace text. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> Learn by practice! Dive headfirst into Module 4! </li><li> Other practice tools available: vimtutor, vim-adventures.com. </li></ul> |
+
+<br>
+
+| <a name="mod3"></a>Module 3: Simple (`bash`) Shell Scripting |
+| --- |
+| |
+| **Topics covered in this module:** |
+| <ul><li> The body of a simple shell script – header, comments, commands, exit. </li><li> Assigning variables, manipulating variables. </li><li> Conditionals with `if` / `elif` / `else`. </li><li> Loop control with `while` and `for`. </li></ul> |
+| **Students should be able to...** |
+| <ul><li> Create a simple shell script with a header, comments, and commands. </li><li> Change permissions and execute a shell script on the command line. </li><li> Write and explain if / else statements, for loops, and while loops. </li></ul> |
+| **Assessment activities:** |
+| <ul><li> Exercise03.tar: Pipeline common commands to set up a project. </li><li> Exercise04.tar: Write some simple control structures. </li></ul> |
+
 | Module 2: Linux Command Line Basics (45 min) |
 | ---------------------------------------------------------------------------------------- |
 |  &#8226; Brief introduction to the Linux operating system. |
