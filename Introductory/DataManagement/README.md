@@ -60,11 +60,11 @@ This course should be taught in a room equipped with computers and internet acce
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li></ul> |
+| <ul><li> Best practices in directory organization. </li><li> Get rid of duplicate copies of data and duplications within data (dedupe). </li><li> Share files with colleagues instead of duplicating them (permissions; access control lists). </li><li> Don’t install common software in your home directory. </li></ul> |
 | **Students should be able to...** |
-| <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
+| <ul><li> Differentiate organized vs. unorganized data. </li><li> Describe strategies to keep data well organized. </li><li> Remove duplicate copies of data where appropriate. </li><li> Set the correct permissions for sharing data where appropriate. </li></ul> |
 | **Assessment activities:** |
-| <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
+| <ul><li> Dedupe some sample data? </li><li> Tinker with file and directory permissions using chmod and access control lists. </li></ul> |
 
 <br>
 
@@ -72,11 +72,11 @@ This course should be taught in a room equipped with computers and internet acce
 | --- |
 | |
 | **Topics covered in this module:** |
-| <ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li></ul> |
+| <ul><li> How to care for sensitive data (HIPAA, ITAR, FIZMA). </li><li> More complicated / big data transfers (globus; gridftp). </li><li> Data repositories and how long should you keep research related data? </li><li> iRODS data management on Corral including metadata and provenance. </li></ul> |
 | **Students should be able to...** |
-| <ul><li>This thing</li><li>And this thing</li><li>And this thing too</li></ul> |
+| <ul><li> Recite (the importance of) HIPAA, ITAR, and FIZMA regulations. </li><li> Identify whether data falls under HIPAA, ITAR, or FIZMA protection. </li><li> Transfer data from point to point using globus. </li><li> Judge the appropriate length of time for retaining data. </li><li> Use iRODS to transfer / find data / metadata. </li></ul> |
 | **Assessment activities:** |
-| <ul><li>Activity 1</li><li>Activity 2</li><li>Activity 3</li></ul> |
+| <ul><li> Load the iRODS module and play around with icommands. </li></ul> |
 
 
 <br>
