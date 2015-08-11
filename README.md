@@ -22,7 +22,7 @@ To aid in quality control and instructional alignment, Contributors will ensure 
 
 Courses and materials are organized hierarchically in folders by user experience, scope, topic, training location, and date.
 * [Introductory](Introductory) courses are those in which limited prior knowledge or experience is needed to easily undertake the training as well as topics with a broad scope or impact.
-* [Advanced](Advanced) courses generally assume a student will be aware of the content of the Introductory courses and will generic have a more targetted or specific scope.
+* [Advanced](Advanced) courses generally assume a student will be aware of the content of the Introductory courses and will  have a more targeted or specific scope.
 * [Workshops](Workshops) are specific training sessions of Introductory or Advanced courses organized by the host institution and date they were presented.
 
 Note: While Workshops will contain substantially the same information as is in Introductory or Advanced, they will likely present institution specific content as well.
