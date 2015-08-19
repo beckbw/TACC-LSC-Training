@@ -9,19 +9,19 @@ This github page is a repository of training materials and a past record of work
 * Provide a centralized repository of course files (links to large files) for download.
 * Store a chronicle of past course offerings including institution, date, and course files.
 
-<br>
+
 ### About this Repository
 
-Everything in this repository falls under one of two categories, `Curriculum` or `Workshops`:
+Everything in this repository falls under one of two categories: `Curriculum` or `Workshops`.
 
 * [Curriculum](Curriculum) is the catalog of all course offerings. Each course offering includes course objectives, instructional objectives, specific learning objectives, as well as course materials including powerpoint slides, notes, and tar balls of hands-on activities.
 * [Workshops](Workshops) are actual past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
 information or materials specific to the host institution and / or presenter's teaching style.
 
-If you are a student, look below to start exploring the Curriculum or past Workshops. If you are a contributor, jump below to find instructions for preparing and uploading new content.
+If you are a student, look below to start exploring the [`Curriculum`](curr) or past [`Workshops`](work). If you are a contributor, jump below to find [instructions](inst) for preparing and uploading new content.
 
-<br>
-### Curriculum
+
+### Curriculum<a name="curr"></a>
 
 
 | Course Catalog |
@@ -33,35 +33,36 @@ If you are a student, look below to start exploring the Curriculum or past Works
 | <ul><li> [Programming the Xeon Phi](Advanced/XeonPhi) </li><li> [Parallel Programming](Advanced/ParallelProg) </li><li> [Virtual Machines and Cloud Computing](Advanced/VirtualMachines) </li><li> [Software Applications](Advanced/Applications) </li></ul> |
 
 
-### Workshops
+### Workshops<a name="work"></a>
 
 | [Recent Workshops](/Workshops) |
 | --- |
 | |
-| [MD Anderson](/Workshops/MDACC) |
-| <ul><li>[2015-08-14](/Workshops/MDACC/2015-08-14) Intro TO HPC for Life Sciences</li></ul> |
+| [MD Anderson Cancer Center](/Workshops/MDACC) |
+| <ul><li>[2015-08-14 - Intro to HPC for Life Sciences](/Workshops/MDACC/2015-08-14)</li></ul> |
 
 
-### Instructions for Contributors
+### Instructions for Contributors<a name="inst"></a>
 
 ###### Content Location
-In general, course content developers should create broad scope, general interest, or basic knowledge courses in the `Introductory` section. Specific topics, or topics of narrow scope such as a single software applications, should be placed into `Advanced`. Content developers should keep new topics or folders in a local repository fork until general review by all developers.
 
-The exception to this is `Workshops`. Here developers are requested to create/merge folders for each institution (e.g. `UTSW`, `MDACC`) with a subfolder indicating the presentation date in YYYY-MM-DD format (e.g. `2015-08-15`) of delivered workshops constructed from the source materials provided in `Introductory` or `Advanced`. In this way, a historical chronicle is maintained for both instructors and students to reference.
+In general, course content developers should create broad scope, general interest, or basic knowledge courses in the [Introductory](/Curriculum/Introductory) section of the `Curriculum`. Specialized topics, or topics of narrow scope such as software applications, should be placed into [Advanced](/Curriculum/Advanced). Content developers should keep new topics or folders in a local repository fork until general review by all developers. A template [`README.curriculum_template.md`](/Curriculum/README.curriculum_template.md) file is provided to insert into the overview of any newly developed course.
+
+`Workshops` are solely the responsibility of the presenter to create. Here, the presenter of the `Workshop` is requested to create a new folder for the host institution (e.g. [UTSW](/Workshops/UTSW), [MDACC](/Workshops/MDACC)) with a subfolder indicating the presentation date in YYYY-MM-DD format (e.g. [2015-08-14](/Workshops/MDACC/2015-08-14)). This folder should contain objectives and materials from a delivered workshop, constructed from the source materials provided in Introductory or Advanced. In this way, a historical chronicle is maintained for both instructors and students to reference.  A template [`README.workshop_template.md`](/Workshops/README.workshop_template.md) file is provided to insert into the overview of any newly scheduled Workshops.
+
 
 ###### Objectives
 
-For each course created in the `Curriculum` or `Workshops`, developers are **REQUIRED** to include information about course, instructional, and specfic learning objectives.
+For each course created in the `Curriculum` or `Workshops`, developers are **REQUIRED** to include information about course, instructional, and specfic learning objectives. These COs, IOs, and SLOs aid in quality control and instructional alignment.
 
 * *Course Objectives*:  General purpose of the course. 
 * *Instructional Objectives*: The general format of the course and assessment mechanisms.
 * *Specific Learning Objectives*: Detailed topic deliverables that students will be able to perform.
 
-These COs, IOs, and SLOs aid in quality control and instructional alignment. A template [`README.template.md`](/Curriculum/README.template.md) file is provided to insert into the overview of any newly developed course.
 
 ###### Accessory Files
 
-Accessory files, such as sample data, archives, and presentation slides (PPT, PDF) may be included in the related course folder if the file is less than 10MB. For accessory files greater than 10MB, a link to an external storage site should be included instead. For example, a publically shared file residing at https://utexas.app.box.com might be shared as:
+Accessory files, such powerpoint slides (PPT or PDF), notes, and tar balls of hands-on activities may be included in the related course folder if the file is less than 10MB. For accessory files greater than 10MB, a link to an external storage site should be included instead. For example, a publically shared file residing at https://utexas.app.box.com might be shared as:
 
 >Download the sequence file for the protein actin from [1atn.fasta](https://utexas.box.com/shared/static/3v1bh67km84vyvyldurhh2p64r07g3p6.fasta).
 
