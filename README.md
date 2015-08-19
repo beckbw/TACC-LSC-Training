@@ -14,8 +14,8 @@ This github page is a repository of training materials and a past record of work
 
 Everything in this repository falls under one of two categories: `Curriculum` or `Workshops`.
 
-* [Curriculum](Curriculum) is the catalog of all course offerings. Each course offering includes course objectives, instructional objectives, specific learning objectives, as well as course materials including powerpoint slides, notes, and tar balls of hands-on activities.
-* [Workshops](Workshops) are actual past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
+* [Curriculum](Curriculum) is the catalog of all potential course offerings. Each course offering includes course objectives, instructional objectives, specific learning objectives, as well as course materials such as powerpoint slides, notes, and tar balls of hands-on activities.
+* [Workshops](Workshops) are actual snapshots of past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
 information or materials specific to the host institution and / or presenter's teaching style.
 
 If you are a student, look below to start exploring the [`Curriculum`](#curr) or past [`Workshops`](#work). If you are a contributor, jump to [Instructions](Instructions.md) for preparing and uploading new content.
