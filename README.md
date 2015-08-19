@@ -22,6 +22,7 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 
 
 <a name="curr"></a>
+
 | [Curriculum](/Curriculum) |
 | --- |
 | |
@@ -32,6 +33,7 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 
 
 <a name="work"></a>
+
 | Recent [Workshops](/Workshops) |
 | --- |
 | |
