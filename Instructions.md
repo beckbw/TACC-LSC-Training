@@ -1,13 +1,13 @@
-### Instructions for Contributors
+## Instructions for Contributors
 
-###### Content Location
+#### Content Location
 
 In general, course content developers should create broad scope, general interest, or basic knowledge courses in the [Introductory](/Curriculum/Introductory) section of the `Curriculum`. Specialized topics, or topics of narrow scope such as software applications, should be placed into [Advanced](/Curriculum/Advanced). Content developers should keep new topics or folders in a local repository fork until general review by all developers. A template [`README.curriculum_template.md`](/Curriculum/README.curriculum_template.md) file is provided to insert into the overview of any newly developed course.
 
 `Workshops` are solely the responsibility of the presenter to create. Here, the presenter of the `Workshop` is requested to create a new folder for the host institution (e.g. [UTSW](/Workshops/UTSW), [MDACC](/Workshops/MDACC)) with a subfolder indicating the presentation date in YYYY-MM-DD format (e.g. [2015-08-14](/Workshops/MDACC/2015-08-14)). This folder should contain objectives and materials from a delivered workshop, constructed from the source materials provided in Introductory or Advanced. In this way, a historical chronicle is maintained for both instructors and students to reference.  A template [`README.workshop_template.md`](/Workshops/README.workshop_template.md) file is provided to insert into the overview of any newly scheduled Workshops.
 
 
-###### Objectives
+#### Objectives
 
 For each course created in the `Curriculum` or `Workshops`, developers are **REQUIRED** to include information about course, instructional, and specfic learning objectives. These COs, IOs, and SLOs aid in quality control and instructional alignment.
 
@@ -16,7 +16,7 @@ For each course created in the `Curriculum` or `Workshops`, developers are **REQ
 * *Specific Learning Objectives*: Detailed topic deliverables that students will be able to perform.
 
 
-###### Accessory Files
+#### Accessory Files
 
 Accessory files, such powerpoint slides (PPT or PDF), notes, and tar balls of hands-on activities may be included in the related course folder if the file is less than 10MB. For accessory files greater than 10MB, a link to an external storage site should be included instead. For example, a publically shared file residing at https://utexas.app.box.com might be shared as:
 
