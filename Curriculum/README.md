@@ -1,4 +1,4 @@
-# Curriculum
+# Life Sciences Computing Group Curriculum
 
 ### Overview
 
