@@ -1,6 +1,6 @@
 # Training Workshops and Presentations
 
-Course materials for specific presentations, their related slides, and sample data are provided in subfolders by `INSTITUTION`. Within the folder for each `INSTITUTION` are additional subfolders for the `DATE` the workshop was presented.
+Course materials for specific presentations, their related slides, and sample data are provided in subfolders by institution. Within the folder for each institution are additional subfolders for the date the workshop was presented.
 
 For example:<br/>
 
