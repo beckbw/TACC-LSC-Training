@@ -23,7 +23,7 @@ This course is taught as...
 
 
 
-| <a name="mod1"></a>Module 1: Title of Module 1 |
+| <a name="mod1"></a>Module 1: Title of Module 1 (Timing) |
 | --- |
 | |
 | **Topics covered in this module:** |
@@ -35,7 +35,7 @@ This course is taught as...
 
 <br>
 
-| <a name="mod2"></a>Module 2: Title of Module 2 |
+| <a name="mod2"></a>Module 2: Title of Module 2 (Timing) |
 | --- |
 | |
 | **Topics covered in this module:** |
