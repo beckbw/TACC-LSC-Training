@@ -6,7 +6,7 @@ For example:<br/>
 
 INSTITUTION | DATE
 ------------|------
-[UTexas](/UTexas) | 2015-05-18
-[MDACC](/MDACC) | 2015-08-15
-[UTSW](/UTSW) | 2015-09-16
+[UTexas](UTexas) | [2015-05-18](UTexas/2015-05-18)
+[MDACC](MDACC) | [2015-08-14](MDACC/2015-08-14)
+[UTSW](UTSW) | 2015-09-16
 
