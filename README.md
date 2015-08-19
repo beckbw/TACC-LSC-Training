@@ -40,6 +40,7 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 | --- |
 | |
 | [University of Texas at Austin](/Workshops/UTexas) |
+| <ul><li>[2015-05-18 - Intro to HPC for Life Sciences](/Workshops/UTexas/2015-05-18)</li></ul> |
 | [MD Anderson Cancer Center](/Workshops/MDACC) |
 | <ul><li>[2015-08-14 - Intro to HPC for Life Sciences](/Workshops/MDACC/2015-08-14)</li></ul> |
 
