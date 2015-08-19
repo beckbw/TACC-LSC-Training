@@ -1,6 +1,0 @@
-* Fill other info in each Readme
-* Put lectures into the skeleton
-*
-* Improved asynchronous content
-* is there a mechanism for hiding folders / unfinished products?
-* Split python into a bunch of different python courses
