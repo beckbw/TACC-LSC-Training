@@ -22,9 +22,7 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 
 
 <a name="curr"></a>
-### Curriculum
-
-| Course Catalog |
+| [Curriculum](/Curriculum) |
 | --- |
 | |
 | [Introductory](/Curriculum/Introductory) |
@@ -34,9 +32,7 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 
 
 <a name="work"></a>
-### Workshops
-
-| [Recent Workshops](/Workshops) |
+| Recent [Workshops](/Workshops) |
 | --- |
 | |
 | [University of Texas at Austin](/Workshops/UTexas) |
