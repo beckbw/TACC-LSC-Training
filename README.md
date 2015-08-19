@@ -21,8 +21,8 @@ information or materials specific to the host institution and / or presenter's t
 If you are a student, look below to start exploring the [`Curriculum`](#curr) or past [`Workshops`](#work). If you are a contributor, jump below to find [instructions](#inst) for preparing and uploading new content.
 
 
-### Curriculum<a name="curr"></a>
-
+<a name="curr"></a>
+### Curriculum
 
 | Course Catalog |
 | --- |
@@ -33,16 +33,19 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 | <ul><li> [Programming the Xeon Phi](Advanced/XeonPhi) </li><li> [Parallel Programming](Advanced/ParallelProg) </li><li> [Virtual Machines and Cloud Computing](Advanced/VirtualMachines) </li><li> [Software Applications](Advanced/Applications) </li></ul> |
 
 
-### Workshops<a name="work"></a>
+<a name="work"></a>
+### Workshops
 
 | [Recent Workshops](/Workshops) |
 | --- |
 | |
+| [University of Texas at Austin](/Workshops/UTexas) |
 | [MD Anderson Cancer Center](/Workshops/MDACC) |
 | <ul><li>[2015-08-14 - Intro to HPC for Life Sciences](/Workshops/MDACC/2015-08-14)</li></ul> |
 
 
-### Instructions for Contributors<a name="inst"></a>
+<a name="inst"></a>
+### Instructions for Contributors
 
 ###### Content Location
 
