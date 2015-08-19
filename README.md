@@ -18,7 +18,7 @@ Everything in this repository falls under one of two categories: `Curriculum` or
 * [Workshops](Workshops) are actual past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
 information or materials specific to the host institution and / or presenter's teaching style.
 
-If you are a student, look below to start exploring the [`Curriculum`](#curr) or past [`Workshops`](#work). If you are a contributor, jump below to find [instructions](#inst) for preparing and uploading new content.
+If you are a student, look below to start exploring the [`Curriculum`](#curr) or past [`Workshops`](#work). If you are a contributor, jump to [Instructions](Instructions.md) for preparing and uploading new content.
 
 
 <a name="curr"></a>
