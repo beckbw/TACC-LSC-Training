@@ -23,6 +23,13 @@ Accessory files, such powerpoint slides (PPT or PDF), notes, and tar balls of ha
 >Download the sequence file for the protein actin from [1atn.fasta](https://utexas.box.com/shared/static/3v1bh67km84vyvyldurhh2p64r07g3p6.fasta).
 
 
+#### To Do List
+* Fill other info in each Readme
+* Put lectures into the skeleton
+* Improved asynchronous content
+* is there a mechanism for hiding folders / unfinished products?
+* Split python into a bunch of different python courses
+
 
 <br>
 &copy; 2015 Texas Advanced Computing Center
