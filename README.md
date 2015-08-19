@@ -7,25 +7,22 @@ This github page is a repository of training materials and a past record of work
 * Organize the course materials into an easily navigatable interface. 
 * Present concise overviews of the course content.
 * Provide a centralized repository of course files (links to large files) for download.
-* Store a chronicle of past course offerings (including institution, date, and course files).
+* Store a chronicle of past course offerings including institution, date, and course files.
 
-
-
+<br>
 ### About this Repository
 
 Everything in this repository falls under one of two categories, `Curriculum` or `Workshops`:
 
 * [Curriculum](Curriculum) is the catalog of all course offerings. Each course offering includes course objectives, instructional objectives, specific learning objectives, as well as course materials including powerpoint slides, notes, and tar balls of hands-on activities.
-* [Workshops](Workshops) are actual past course offerings. They are built around the objectives and materials in the Curriculum. Some workshops combine objectives and materials from several courses. Workshops also include additional
+* [Workshops](Workshops) are actual past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
 information or materials specific to the host institution and / or presenter's teaching style.
 
+If you are a student, look below to start exploring the Curriculum or past Workshops. If you are a contributor, jump below to find instructions for preparing and uploading new content.
 
+<br>
 ### Curriculum
 
-Materials for the Life Sciences Computing Curriculum are organized hierarchically in folders by user experience, scope, and topic. These materials are used as a starting point to create specific instances of Workshops.
-
-* [Introductory](/Curriculum/Introductory) courses are those in which limited prior knowledge or experience is needed to easily undertake the training as well as topics with a broad scope or impact.
-* [Advanced](/Curriculum/Advanced) courses generally assume a student will be aware of the content of the Introductory courses and will  have a more targeted or specific scope.
 
 | Course Catalog |
 | --- |
