@@ -10,7 +10,6 @@ This folder contains introductory-level materials from the TACC Life Sciences Co
 * [Batch Job Submission](JobSubmission)
 * [Best Practices in Data Management](DataManagement)
 
-<br>
 ### Tools
 
 Introductory materials for various scripting languages and satistical analysis packages can also be found by following the link to [Tools](Tools). The current course offerings include:
@@ -20,7 +19,6 @@ Introductory materials for various scripting languages and satistical analysis p
 * [R](Tools/R)
 * [Matlab](Tools/Matlab)
 
-<br>
 ### Previous Materials
 
 A record of previous courses and the accompanying materials can be found under [Workshops](../Workshops).
