@@ -25,7 +25,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> List benefits and capabilities of a command line interface. </li><li> Use all of the commands covered in this module. </li><li> Find documentation for unknown commands and flags. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> `Exercise01.tar:` Renaming directories for better organization. </li><li> `Exercise02.tar:` Manipulating existing files (word list and fasta). </li></ul> |
+| <ul><li> `Lab01.tar:` Naming and renaming directories for better organization. </li><li> `Lab02.tar:` Exploring large files (word lists and fasta). </li><li> `Lab03.tar:` Determine how to use previously unknown commands. </li></ul> |
 
 <br>
 
