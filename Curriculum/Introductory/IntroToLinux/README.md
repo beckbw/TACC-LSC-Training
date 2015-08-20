@@ -49,7 +49,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Create a simple shell script with a header, comments, and commands. </li><li> Change permissions and execute a shell script on the command line. </li><li> Write and explain if / else statements, for loops, and while loops. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Exercise03.tar: Pipeline common commands to set up a project. </li><li> Exercise04.tar: Write some simple control structures. </li></ul> |
+| <ul><li> `Lab05.tar:` Write and execute a simple shell script. </li><li> `Lab06.tar:` Write and execute a shell script with variables. </li><li> `Lab07.tar:` Write a shell script that pulls in information and uses conditionals. </li><li> `Lab08.tar:` Write a shell script with advanced loop control. </li></ul> |
 
 
 <br>
