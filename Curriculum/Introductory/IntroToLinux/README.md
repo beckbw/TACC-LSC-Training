@@ -37,7 +37,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Open, edit, and save documents with VIM. </li><li> Switch back and forth between insert mode and normal mode. </li><li> Navigate to different parts of a file quickly. </li><li> Search for a specific string of text. </li><li> Find and replace text. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Learn by practice! Dive headfirst into Module 4! </li><li> Other practice tools available: `vimtutor`, vim-adventures.com. </li></ul> |
+| <ul><li> `Lab04.tar:` Curating gene sequence files for analysis. </li><li> Learn by practice! Dive headfirst into Module 3! </li><li> Other practice tools available: `vimtutor`, vim-adventures.com, openvim.org. </li></ul> |
 
 <br>
 
