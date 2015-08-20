@@ -2,51 +2,48 @@
 
 ### Welcome!
 
-This github page is a repository of training materials for the TACC Life
-Sciences Computing group. We are currently exploring different methods for
-organizing and presenting these materials. Our main objectives in using github
-are:
+This github page is a repository of training materials and a past record of workshops offered by the TACC Life Sciences Computing group. We are currently exploring different methods for organizing and presenting these materials. Our main objectives in using github are:
 
 * Organize the course materials into an easily navigatable interface. 
 * Present concise overviews of the course content.
 * Provide a centralized repository of course files (links to large files) for download.
-* Store a chronicle of past course offerings (including date, institution, and course files).
+* Store a chronicle of past course offerings including institution, date, and course files.
 
-To aid in quality control and instructional alignment, Contributors will ensure course overviews include:
 
-* *Course Objectives*:  General purpose of the course. 
-* *Instructional Objectives*: The general format of the course and assessment mechanisms.
-* *Specific Learning Objectives*: Detailed topic deliverables that students will be able to perform.
+### About this Repository
 
-### Courses
+Everything in this repository falls under one of two categories: `Curriculum` or `Workshops`.
 
-Courses and materials are organized hierarchically in folders by user experience, scope, topic, training location, and date.
-* [Introductory](Introductory) courses are those in which limited prior knowledge or experience is needed to easily undertake the training as well as topics with a broad scope or impact.
-* [Advanced](Advanced) courses generally assume a student will be aware of the content of the Introductory courses and will generic have a more targetted or specific scope.
-* [Workshops](Workshops) are specific training sessions of Introductory or Advanced courses organized by the host institution and date they were presented.
+* [Curriculum](Curriculum) is the catalog of all potential course offerings. Each course offering includes course objectives, instructional objectives, specific learning objectives, as well as course materials such as powerpoint slides, notes, and tar balls of hands-on activities.
+* [Workshops](Workshops) are actual snapshots of past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
+information or materials specific to the host institution and / or presenter's teaching style.
 
-Note: While Workshops will contain substantially the same information as is in Introductory or Advanced, they will likely present institution specific content as well.
+If you are a student, look below to start exploring the [`Curriculum`](#curr) or past [`Workshops`](#work). If you are a contributor, jump to [Instructions](Instructions.md) for preparing and uploading new content.
 
-| Course Catalog |
+
+<a name="curr"></a>
+### Curriculum
+
+| [Curriculum](/Curriculum) |
 | --- |
 | |
-| [Introductory](/Introductory) |
-| <ul><li> [TACC Resources, Projects, &amp; Allocations](Introductory/TACC) </li><li> [UT System Research Cyberinfrastructure \(UTRC\)](Introductory/UTRC) </li><li> [Introduction to Linux](Introductory/IntroToLinux) </li><li> [Best Practices in Data Management](Introductory/DataManagement) </li><li> [Batch Job Submission](Introductory/JobSubmission) </li><li> [Computational Tools](Introductory/Tools) </li></ul> |
-| [Advanced](/Advanced) |
-| <ul><li> [Programming the Xeon Phi](Advanced/XeonPhi) </li><li> [Parallel Programming](Advanced/ParallelProg) </li><li> [Virtual Machines and Cloud Computing](Advanced/VirtualMachines) </li><li> [Software Applications](Advanced/Applications) </li></ul> |
-| [Recent Workshops](/Workshops) |
-| <ul><li> Locations and times vary </li></ul> |
+| [Introductory](/Curriculum/Introductory) |
+| <ul><li> [TACC Resources, Projects, &amp; Allocations](/Curriculum/Introductory/TACC) </li><li> [UT System Research Cyberinfrastructure \(UTRC\)](/Curriculum/Introductory/UTRC) </li><li> [Introduction to Linux](/Curriculum/Introductory/IntroToLinux) </li><li> [Best Practices in Data Management](/Curriculum/Introductory/DataManagement) </li><li> [Batch Job Submission](/Curriculum/Introductory/JobSubmission) </li><li> [Computational Tools](/Curriculum/Introductory/Tools) </li></ul> |
+| [Advanced](/Curriculum/Advanced) |
+| <ul><li> [Programming the Xeon Phi](/Curriculum/Advanced/XeonPhi) </li><li> [Parallel Programming](/Curriculum/Advanced/ParallelProg) </li><li> [Virtual Machines and Cloud Computing](/Curriculum/Advanced/VirtualMachines) </li><li> [Software Applications](/Curriculum/Advanced/Applications) </li></ul> |
 
 
+<a name="work"></a>
+### Workshops
 
-### Download
+| Recent [Workshops](/Workshops) |
+| --- |
+| |
+| [University of Texas at Austin](/Workshops/UTexas) |
+| <ul><li>[2015-05-18 - Intro to HPC for Life Sciences](/Workshops/UTexas/2015-05-18)</li></ul> |
+| [MD Anderson Cancer Center](/Workshops/MDACC) |
+| <ul><li>[2015-08-14 - Intro to HPC for Life Sciences](/Workshops/MDACC/2015-08-14)</li></ul> |
 
-To clone this entire repository, execute on a command line:
-
-```
-git clone https://github.com/wjallen/TACC-LSC-Training
-```
->Note: this URL will change
 
 
 <br>

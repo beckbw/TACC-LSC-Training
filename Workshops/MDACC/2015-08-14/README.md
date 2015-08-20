@@ -1,6 +1,6 @@
 # Intro to High Performance Computing for Life Sciences
 
-* **Course Location:** MD Anderson Cancer Center, Mid Campus Building Room 1MC13.3311
+* **Course Location:** MD Anderson Cancer Center, Mid Campus Building Room 1MC12.3312/3313
 * **Date and Time:** Friday, August 14th, 2015, 9:00am - 12:00pm
 * **Presenter:** Joe Allen (wallen [at] tacc.utexas.edu)
 
@@ -45,7 +45,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> List benefits and capabilities of a command line interface. </li><li> Use all of the commands covered in this module. </li><li> Find documentation for unknown commands and flags. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> `Exercise01.tar:` Renaming directories for better organization. </li><li> `Exercise02.tar:` Manipulating existing files (word list and fasta). </li></ul> |
+| <ul><li> `Lab01.tar:` Naming and renaming directories for better organization. </li><li> `Lab02.tar:` Exploring large files (word lists and fasta). </li><li> `Lab03.tar:` Determine how to use previously unknown commands. </li></ul> |
 
 <br/>
 **BREAK (5 min)**
@@ -59,7 +59,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Open, edit, and save documents with VIM. </li><li> Switch back and forth between insert mode and normal mode. </li><li> Navigate to different parts of a file quickly. </li><li> Search for a specific string of text. </li><li> Find and replace text. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Learn by practice! Dive headfirst into Module 4! </li><li> Other practice tools available: `vimtutor`, vim-adventures.com. </li></ul> |
+| <ul><li> `Lab04.tar:` Curating gene sequence files for analysis. </li><li> Learn by practice! Dive headfirst into Module 3! </li><li> Other practice tools available: `vimtutor`, vim-adventures.com, openvim.org. </li></ul> |
 
 <br>
 
@@ -71,7 +71,9 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Create a simple shell script with a header, comments, and commands. </li><li> Change permissions and execute a shell script on the command line. </li><li> Write and explain if / else statements, for loops, and while loops. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Exercise03.tar: Pipeline common commands to set up a project. </li><li> Exercise04.tar: Write some simple control structures. </li></ul> |
+| <ul><li> `Lab05.tar:` Write and execute a simple shell script. </li><li> `Lab06.tar:` Write and execute a shell script with variables. </li><li> `Lab07.tar:` Write a shell script that pulls in information and uses conditionals. </li><li> `Lab08.tar:` Write a shell script with advanced loop control. </li></ul> |
+
+
 
 <br/>
 **BREAK (5 min)**
@@ -87,7 +89,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> `Exercise05.tar:` Complete a batch submission script. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
+| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> `Lab09.tar:` Complete a batch submission script and submit. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
 
 
 <br>
