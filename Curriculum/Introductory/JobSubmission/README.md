@@ -39,8 +39,7 @@ This course should be taught in a room equipped with computers and internet acce
 | **Students should be able to...** |
 | <ul><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Exercise01.tar: Complete a batch submission script. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
-
+| <ul><li> `Lab01.tar:` Complete a batch submission script and submit. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
 
 <br>
 &copy; 2015 Texas Advanced Computing Center
