@@ -89,7 +89,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> `Exercise05.tar:` Complete a batch submission script. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
+| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> `Lab09.tar:` Complete a batch submission script and submit. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
 
 
 <br>
